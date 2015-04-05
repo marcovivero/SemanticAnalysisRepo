@@ -1,11 +1,13 @@
 package SemanticAnalysis
 
-import java.util.HashSet
+import java.util.HashMap
 
 import io.prediction.controller.{P2LAlgorithm, Params}
 import org.apache.spark.mllib.classification.{NaiveBayes, NaiveBayesModel}
 import org.apache.spark.mllib.linalg.Vectors
-import SemanticAnalysis.NGramMachine
+
+import scala.collection.JavaConverters._
+import scala.collection.mutable
 
 case class AlgorithmParams(
                           nGramWindow : Int,
@@ -17,25 +19,31 @@ class Algorithm(val params : AlgorithmParams)
 
 
   def train (data : PreparedData) : Model = {
-    val newData = data.labeledPhrases
-      .map(e => DummyData(
-      e.sentiment,
-      NGramMachine.extract(e.phrase, params.nGramWindow)
-    ))
-    val dataIter = newData.toLocalIterator
-    NaiveBayes.train(data.labeledPoints, params.lambda)
+
+    // Create training data universe of n-grams.
+    val NGramUniverse = NGramMachine.create_universe(
+      data.labeledPhrases
+        .map(e => DummyData(
+        NGramMachine.extract(
+          e.phrase, params.nGramWindow
+        )).nGrams
+        ).toLocalIterator.asJava
+    )
+
+
+    NaiveBayes.train(labeledPoints, params.lambda)
   }
 
   def predict (model: NaiveBayesModel, query: Query) : PredictedResult = {
-    val label = model.predict(Vectors.dense(query.features))
+    val label = model.predict(Vectors.dense(query.phrase))
     new PredictedResult(label)
   }
 }
 
 case class DummyData (
-                       sentiment : Double,
-                       phrase : HashSet[String]
+                       nGrams : HashMap[String, Integer]
                        ) extends Serializable
+
 
 class Model () extends Serializable
 

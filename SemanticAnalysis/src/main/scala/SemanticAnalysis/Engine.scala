@@ -3,7 +3,7 @@ package SemanticAnalysis
 import io.prediction.controller.{Engine, IEngineFactory}
 
 class Query(
-             val features: Array[Double]
+             val phrase: String
              ) extends Serializable
 
 class PredictedResult(

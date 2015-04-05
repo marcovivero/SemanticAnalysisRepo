@@ -4,7 +4,7 @@
 		module="semanticanalysis$sources_javadoc_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150404143517"
+		publication="20150405101552"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
