@@ -4,7 +4,7 @@
 		module="semanticanalysis$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150405101552"
+		publication="20150405144528"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
