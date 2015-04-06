@@ -5,12 +5,12 @@ import java.util.HashMap
 
 import SemanticAnalysis.NGramMachine.{create_universe, extract, hash2Vect}
 import io.prediction.controller.{P2LAlgorithm, Params}
+import org.apache.spark.SparkContext
 import org.apache.spark.mllib.classification.{NaiveBayes, NaiveBayesModel}
 import org.apache.spark.mllib.linalg.Vectors
 import org.apache.spark.mllib.regression.LabeledPoint
 
 import scala.collection.JavaConverters._
-import scala.collection.mutable
 
 case class AlgorithmParams(
                           nGramWindow : Int,
@@ -21,7 +21,7 @@ class Algorithm(val params : AlgorithmParams)
   extends P2LAlgorithm[PreparedData, Model, Query, PredictedResult] {
 
 
-  def train (data : PreparedData) : Model = {
+  def train (sc : SparkContext, data : PreparedData) : Model = {
 
     val NGramUniverse = create_universe(
       data.labeledPhrases
@@ -37,7 +37,8 @@ class Algorithm(val params : AlgorithmParams)
           Vectors.dense(
             hash2Vect(
               extract(e.phrase, params.nGramWindow),
-              NGramUniverse)
+              NGramUniverse
+            ).map(e => Double2double(e))
           )))
 
     new Model(
@@ -53,7 +54,8 @@ class Algorithm(val params : AlgorithmParams)
         hash2Vect(
           extract(query.phrase, params.nGramWindow),
           model.universe
-      )))
+        ).map(e => Double2double(e))
+      ))
     new PredictedResult(label)
   }
 }
