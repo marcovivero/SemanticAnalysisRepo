@@ -661,9 +661,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.5!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.5!apply-macro.jar
-[debug] :: resolution report :: resolve 1686ms :: artifacts dl 47ms
+[debug] :: resolution report :: resolve 2114ms :: artifacts dl 91ms
 [debug] 	report for semanticanalysis#semanticanalysis$sbt_2.10;1.0 default produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sbt_2.10-default.xml
-[debug] 	resolve done (1686ms resolve - 47ms download)
+[debug] 	resolve done (2114ms resolve - 91ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: semanticanalysis#semanticanalysis$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -1031,6 +1031,6 @@
 [debug] 	[NOT REQUIRED] com.eed3si9n#sbt-assembly;0.13.0!sbt-assembly.jar(src)
 [debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.10;2.2.1!scalactic_2.10.jar(src)
 [debug] 	[NOT REQUIRED] io.prediction#pio-build;0.9.0!pio-build.jar(src)
-[debug] :: resolution report :: resolve 213ms :: artifacts dl 31ms
+[debug] :: resolution report :: resolve 423ms :: artifacts dl 69ms
 [debug] 	report for semanticanalysis#semanticanalysis$sources_2.10;1.0 default produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sources_2.10-default.xml
-[debug] 	resolve done (213ms resolve - 31ms download)
+[debug] 	resolve done (423ms resolve - 69ms download)

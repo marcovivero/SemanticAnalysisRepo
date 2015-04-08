@@ -6,7 +6,12 @@ import opennlp.tools.util.StringList;
 
 import java.util.*;
 
+
+// Backbone class implementing all feature extraction methods.
 class NGramMachine {
+
+    // Extract set of n-grams with corresponding number of counts from phrase
+    // of class String.
     public static HashMap<String, Integer> extract(String phrase, Integer n) {
         String tokens[] = SimpleTokenizer.INSTANCE.tokenize(phrase);
         NGramModel model = new NGramModel();
@@ -20,6 +25,7 @@ class NGramMachine {
         return hashMap;
     }
 
+    // Create
     public static LinkedHashSet<String> create_universe(Iterator<HashMap<String, Integer>> iter) {
         LinkedHashSet<String> universe = new LinkedHashSet<String>();
         while (iter.hasNext()) {

@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0 [compile]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40703d3f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bdbb588
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	local: revision in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.opennlp#opennlp-tools;1.5.3 [compile->default(compile)]
 [info] Resolving org.apache.opennlp#opennlp-tools;1.5.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e7b5cb9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fc1d97e
 [debug] sbt-chain: module revision found in cache: org.apache.opennlp#opennlp-tools;1.5.3
 [debug] 	local: revision in cache: org.apache.opennlp#opennlp-tools;1.5.3
 [debug] 	found org.apache.opennlp#opennlp-tools;1.5.3 in sbt-chain
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.opennlp#opennlp-tools;1.5.3 [compile->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.opennlp#opennlp-maxent;3.0.3 [compile->default(compile)]
 [info] Resolving org.apache.opennlp#opennlp-maxent;3.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@190598a5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52de6bcf
 [debug] sbt-chain: module revision found in cache: org.apache.opennlp#opennlp-maxent;3.0.3
 [debug] 	local: revision in cache: org.apache.opennlp#opennlp-maxent;3.0.3
 [debug] 	found org.apache.opennlp#opennlp-maxent;3.0.3 in sbt-chain
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.opennlp#opennlp-maxent;3.0.3 [compile->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.sf.jwordnet#jwnl;1.3.3 [compile->default(compile)]
 [info] Resolving net.sf.jwordnet#jwnl;1.3.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38b28c20
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dbc144b
 [debug] sbt-chain: module revision found in cache: net.sf.jwordnet#jwnl;1.3.3
 [debug] 	local: revision in cache: net.sf.jwordnet#jwnl;1.3.3
 [debug] 	found net.sf.jwordnet#jwnl;1.3.3 in sbt-chain
@@ -136,7 +136,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.prediction#core_2.10;0.9.0 [provided->default(compile)]
 [info] Resolving io.prediction#core_2.10;0.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f3974be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e91278b
 [debug] sbt-chain: module revision found in cache: io.prediction#core_2.10;0.9.0
 [debug] 	local: revision in cache: io.prediction#core_2.10;0.9.0
 [debug] 	found io.prediction#core_2.10;0.9.0 in sbt-chain
@@ -145,7 +145,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.prediction#core_2.10;0.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.prediction#data_2.10;0.9.0 [provided->default(compile)]
 [info] Resolving io.prediction#data_2.10;0.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10831a44
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f3e7109
 [debug] sbt-chain: module revision found in cache: io.prediction#data_2.10;0.9.0
 [debug] 	local: revision in cache: io.prediction#data_2.10;0.9.0
 [debug] 	found io.prediction#data_2.10;0.9.0 in sbt-chain
@@ -154,7 +154,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.prediction#data_2.10;0.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.prediction#common_2.10;0.9.0 [provided->default(compile)]
 [info] Resolving io.prediction#common_2.10;0.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a6892c9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a273f50
 [debug] sbt-chain: module revision found in cache: io.prediction#common_2.10;0.9.0
 [debug] 	local: revision in cache: io.prediction#common_2.10;0.9.0
 [debug] 	found io.prediction#common_2.10;0.9.0 in sbt-chain
@@ -163,7 +163,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.prediction#common_2.10;0.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.9 [provided->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d84fadc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d8e6bca
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.9
 [debug] 	local: revision in cache: commons-codec#commons-codec;1.9
 [debug] 	found commons-codec#commons-codec;1.9 in sbt-chain
@@ -172,7 +172,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.9 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-can_2.10;1.3.2 [provided->default(compile)]
 [info] Resolving io.spray#spray-can_2.10;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e4512a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4322dc79
 [debug] sbt-chain: module revision found in cache: io.spray#spray-can_2.10;1.3.2
 [debug] 	local: revision in cache: io.spray#spray-can_2.10;1.3.2
 [debug] 	found io.spray#spray-can_2.10;1.3.2 in sbt-chain
@@ -181,7 +181,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-can_2.10;1.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-io_2.10;1.3.2 [provided->default(compile)]
 [info] Resolving io.spray#spray-io_2.10;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e0a267
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@329736c7
 [debug] sbt-chain: module revision found in cache: io.spray#spray-io_2.10;1.3.2
 [debug] 	local: revision in cache: io.spray#spray-io_2.10;1.3.2
 [debug] 	found io.spray#spray-io_2.10;1.3.2 in sbt-chain
@@ -190,7 +190,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-io_2.10;1.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-util_2.10;1.3.2 [provided->default(compile)]
 [info] Resolving io.spray#spray-util_2.10;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26e9d3be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66afc4d5
 [debug] sbt-chain: module revision found in cache: io.spray#spray-util_2.10;1.3.2
 [debug] 	local: revision in cache: io.spray#spray-util_2.10;1.3.2
 [debug] 	found io.spray#spray-util_2.10;1.3.2 in sbt-chain
@@ -199,7 +199,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-util_2.10;1.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-http_2.10;1.3.2 [provided->default(compile)]
 [info] Resolving io.spray#spray-http_2.10;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d4fa46e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a9024a0
 [debug] sbt-chain: module revision found in cache: io.spray#spray-http_2.10;1.3.2
 [debug] 	local: revision in cache: io.spray#spray-http_2.10;1.3.2
 [debug] 	found io.spray#spray-http_2.10;1.3.2 in sbt-chain
@@ -208,7 +208,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-http_2.10;1.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.parboiled#parboiled-scala_2.10;1.1.6 [provided->default(compile)]
 [info] Resolving org.parboiled#parboiled-scala_2.10;1.1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@220798a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b4dd905
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-scala_2.10;1.1.6
 [debug] 	local: revision in cache: org.parboiled#parboiled-scala_2.10;1.1.6
 [debug] 	found org.parboiled#parboiled-scala_2.10;1.1.6 in sbt-chain
@@ -217,7 +217,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.parboiled#parboiled-scala_2.10;1.1.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.parboiled#parboiled-core;1.1.6 [provided->default(compile)]
 [info] Resolving org.parboiled#parboiled-core;1.1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bb09cba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19deb95a
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-core;1.1.6
 [debug] 	local: revision in cache: org.parboiled#parboiled-core;1.1.6
 [debug] 	found org.parboiled#parboiled-core;1.1.6 in sbt-chain
@@ -226,7 +226,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.parboiled#parboiled-core;1.1.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-routing_2.10;1.3.2 [provided->default(compile)]
 [info] Resolving io.spray#spray-routing_2.10;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3961d611
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dd1eeeb
 [debug] sbt-chain: module revision found in cache: io.spray#spray-routing_2.10;1.3.2
 [debug] 	local: revision in cache: io.spray#spray-routing_2.10;1.3.2
 [debug] 	found io.spray#spray-routing_2.10;1.3.2 in sbt-chain
@@ -235,7 +235,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-routing_2.10;1.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-httpx_2.10;1.3.2 [provided->default(compile)]
 [info] Resolving io.spray#spray-httpx_2.10;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11f48d78
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@118f97b5
 [debug] sbt-chain: module revision found in cache: io.spray#spray-httpx_2.10;1.3.2
 [debug] 	local: revision in cache: io.spray#spray-httpx_2.10;1.3.2
 [debug] 	found io.spray#spray-httpx_2.10;1.3.2 in sbt-chain
@@ -244,7 +244,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.spray#spray-httpx_2.10;1.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.jvnet.mimepull#mimepull;1.9.4 [provided->default(compile)]
 [info] Resolving org.jvnet.mimepull#mimepull;1.9.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b7972ad
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8ce44fc
 [debug] sbt-chain: module revision found in cache: org.jvnet.mimepull#mimepull;1.9.4
 [debug] 	local: revision in cache: org.jvnet.mimepull#mimepull;1.9.4
 [debug] 	found org.jvnet.mimepull#mimepull;1.9.4 in sbt-chain
@@ -253,7 +253,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.jvnet.mimepull#mimepull;1.9.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.chuusai#shapeless_2.10;1.2.4 [provided->default(compile)]
 [info] Resolving com.chuusai#shapeless_2.10;1.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@323c42d4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b852078
 [debug] sbt-chain: module revision found in cache: com.chuusai#shapeless_2.10;1.2.4
 [debug] 	local: revision in cache: com.chuusai#shapeless_2.10;1.2.4
 [debug] 	found com.chuusai#shapeless_2.10;1.2.4 in sbt-chain
@@ -262,7 +262,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.chuusai#shapeless_2.10;1.2.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.5.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75d91f57
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@322ada43
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.5.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-common;2.5.0
 [debug] 	found org.apache.hadoop#hadoop-common;2.5.0 in sbt-chain
@@ -271,7 +271,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.5.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a1457dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d69439
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.5.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-annotations;2.5.0
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.5.0 in sbt-chain
@@ -280,7 +280,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [provided->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ff6f5f5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7179cba7
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	local: revision in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
@@ -289,7 +289,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [provided->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39907e5e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ed271bc
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.1.1
 [debug] 	local: revision in cache: org.apache.commons#commons-math3;3.1.1
 [debug] 	found org.apache.commons#commons-math3;3.1.1 in sbt-chain
@@ -298,7 +298,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [provided->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b94bae7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cd81c6d
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	local: revision in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
@@ -307,7 +307,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [provided->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75050e6a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32267f47
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	local: revision in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
@@ -316,7 +316,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [provided->default(compile)]
 [info] Resolving commons-net#commons-net;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b7e9020
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16ea3ea7
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;3.1
 [debug] 	local: revision in cache: commons-net#commons-net;3.1
 [debug] 	found commons-net#commons-net;3.1 in sbt-chain
@@ -325,7 +325,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [provided->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fa7734f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@589bacb3
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	local: revision in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
@@ -334,7 +334,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty;6.1.26 [provided->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4eb991a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d4f2910
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty;6.1.26
 [debug] 	local: revision in cache: org.mortbay.jetty#jetty;6.1.26
 [debug] 	found org.mortbay.jetty#jetty;6.1.26 in sbt-chain
@@ -343,7 +343,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty;6.1.26 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [provided->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d725a05
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17e82046
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	local: revision in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
@@ -352,7 +352,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-core;1.9 [provided->default(compile)]
 [info] Resolving com.sun.jersey#jersey-core;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a0e3c0d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e5727ca
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-core;1.9
 [debug] 	local: revision in cache: com.sun.jersey#jersey-core;1.9
 [debug] 	found com.sun.jersey#jersey-core;1.9 in sbt-chain
@@ -361,7 +361,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-core;1.9 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [provided->default(compile)]
 [info] Resolving com.sun.jersey#jersey-json;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71b3214d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d025e39
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-json;1.9
 [debug] 	local: revision in cache: com.sun.jersey#jersey-json;1.9
 [debug] 	found com.sun.jersey#jersey-json;1.9 in sbt-chain
@@ -370,7 +370,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [provided->default(compile)]
 [info] Resolving org.codehaus.jettison#jettison;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23dc2ead
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@590fb684
 [debug] sbt-chain: module revision found in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	local: revision in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	found org.codehaus.jettison#jettison;1.1 in sbt-chain
@@ -379,7 +379,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [provided->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-impl;2.2.3-1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35b480f7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43e481f6
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-impl;2.2.3-1
 [debug] 	local: revision in cache: com.sun.xml.bind#jaxb-impl;2.2.3-1
 [debug] 	found com.sun.xml.bind#jaxb-impl;2.2.3-1 in sbt-chain
@@ -388,7 +388,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [provided->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7526e8bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e152177
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.2
 [debug] 	local: revision in cache: javax.xml.bind#jaxb-api;2.2.2
 [debug] 	found javax.xml.bind#jaxb-api;2.2.2 in sbt-chain
@@ -397,7 +397,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.xml.stream#stax-api;1.0-2 [provided->default(compile)]
 [info] Resolving javax.xml.stream#stax-api;1.0-2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16a41c07
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22ce79cf
 [debug] sbt-chain: module revision found in cache: javax.xml.stream#stax-api;1.0-2
 [debug] 	local: revision in cache: javax.xml.stream#stax-api;1.0-2
 [debug] 	found javax.xml.stream#stax-api;1.0-2 in sbt-chain
@@ -406,7 +406,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.xml.stream#stax-api;1.0-2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [provided->default(compile)]
 [info] Resolving javax.activation#activation;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12b9d290
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fd5f42f
 [debug] sbt-chain: module revision found in cache: javax.activation#activation;1.1
 [debug] 	local: revision in cache: javax.activation#activation;1.1
 [debug] 	found javax.activation#activation;1.1 in sbt-chain
@@ -415,7 +415,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [provided->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-xc;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70174700
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fe7b9b0
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-xc;1.8.3
 [debug] 	local: revision in cache: org.codehaus.jackson#jackson-xc;1.8.3
 [debug] 	found org.codehaus.jackson#jackson-xc;1.8.3 in sbt-chain
@@ -424,7 +424,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [provided->default(compile)]
 [info] Resolving com.sun.jersey#jersey-server;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@385c057c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@499e0f4e
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-server;1.9
 [debug] 	local: revision in cache: com.sun.jersey#jersey-server;1.9
 [debug] 	found com.sun.jersey#jersey-server;1.9 in sbt-chain
@@ -433,7 +433,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.3 [provided->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@390aa32a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d38f432
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.3
 [debug] 	local: revision in cache: commons-logging#commons-logging;1.1.3
 [debug] 	found commons-logging#commons-logging;1.1.3 in sbt-chain
@@ -442,7 +442,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [provided->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@277b44ba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a34592f
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	local: revision in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
@@ -451,7 +451,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.9.0 [provided->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44710d4b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@305102f0
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.9.0
 [debug] 	local: revision in cache: net.java.dev.jets3t#jets3t;0.9.0
 [debug] 	found net.java.dev.jets3t#jets3t;0.9.0 in sbt-chain
@@ -460,7 +460,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.jamesmurty.utils#java-xmlbuilder;0.4 [provided->default(compile)]
 [info] Resolving com.jamesmurty.utils#java-xmlbuilder;0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dc15ea3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b45ea11
 [debug] sbt-chain: module revision found in cache: com.jamesmurty.utils#java-xmlbuilder;0.4
 [debug] 	local: revision in cache: com.jamesmurty.utils#java-xmlbuilder;0.4
 [debug] 	found com.jamesmurty.utils#java-xmlbuilder;0.4 in sbt-chain
@@ -469,7 +469,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.jamesmurty.utils#java-xmlbuilder;0.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.6 [provided->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71032e30
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c731e36
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.6
 [debug] 	local: revision in cache: commons-lang#commons-lang;2.6
 [debug] 	found commons-lang#commons-lang;2.6 in sbt-chain
@@ -478,7 +478,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [provided->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16e5a078
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f8aaf8e
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	local: revision in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
@@ -487,7 +487,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [provided->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e8d236a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@609a8191
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	local: revision in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
@@ -496,7 +496,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [provided->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d5f1178
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d33ba1a
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	local: revision in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
@@ -505,7 +505,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [provided->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@177d8bc4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b869f6d
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.9.13
 [debug] 	local: revision in cache: org.codehaus.jackson#jackson-core-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.9.13 in sbt-chain
@@ -514,7 +514,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [provided->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@341ba0ad
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b4b6ace
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.13
 [debug] 	local: revision in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.9.13 in sbt-chain
@@ -523,7 +523,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [provided->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37071728
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16c453f3
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.4
 [debug] 	local: revision in cache: org.apache.avro#avro;1.7.4
 [debug] 	found org.apache.avro#avro;1.7.4 in sbt-chain
@@ -532,7 +532,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [provided->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c7ab78e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28adb9e7
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	local: revision in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
@@ -541,7 +541,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [provided->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@859544
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4062a132
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	local: revision in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
@@ -550,7 +550,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [provided->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b5cb4a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f9ff5ef
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	local: revision in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
@@ -559,7 +559,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.5.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7486c9af
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ad9afd
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.5.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-auth;2.5.0
 [debug] 	found org.apache.hadoop#hadoop-auth;2.5.0 in sbt-chain
@@ -568,7 +568,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.httpcomponents#httpclient;4.2.5 [provided->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.2.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27d02084
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2741c305
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.2.5
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpclient;4.2.5
 [debug] 	found org.apache.httpcomponents#httpclient;4.2.5 in sbt-chain
@@ -577,7 +577,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.httpcomponents#httpclient;4.2.5 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.httpcomponents#httpcore;4.2.4 [provided->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fa5b070
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@628a5a74
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.2.4
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpcore;4.2.4
 [debug] 	found org.apache.httpcomponents#httpcore;4.2.4 in sbt-chain
@@ -586,7 +586,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.httpcomponents#httpcore;4.2.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 [provided->default(compile)]
 [info] Resolving org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6969542e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20d3c3d3
 [debug] sbt-chain: module revision found in cache: org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15
 [debug] 	local: revision in cache: org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15
 [debug] 	found org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 in sbt-chain
@@ -595,7 +595,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.server#apacheds-kerberos-codec;2.0.0-M15 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.server#apacheds-i18n;2.0.0-M15 [provided->default(compile)]
 [info] Resolving org.apache.directory.server#apacheds-i18n;2.0.0-M15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f63da6d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2966578d
 [debug] sbt-chain: module revision found in cache: org.apache.directory.server#apacheds-i18n;2.0.0-M15
 [debug] 	local: revision in cache: org.apache.directory.server#apacheds-i18n;2.0.0-M15
 [debug] 	found org.apache.directory.server#apacheds-i18n;2.0.0-M15 in sbt-chain
@@ -604,7 +604,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.server#apacheds-i18n;2.0.0-M15 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.api#api-asn1-api;1.0.0-M20 [provided->default(compile)]
 [info] Resolving org.apache.directory.api#api-asn1-api;1.0.0-M20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b058c10
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1903d00e
 [debug] sbt-chain: module revision found in cache: org.apache.directory.api#api-asn1-api;1.0.0-M20
 [debug] 	local: revision in cache: org.apache.directory.api#api-asn1-api;1.0.0-M20
 [debug] 	found org.apache.directory.api#api-asn1-api;1.0.0-M20 in sbt-chain
@@ -613,7 +613,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.api#api-asn1-api;1.0.0-M20 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.api#api-util;1.0.0-M20 [provided->default(compile)]
 [info] Resolving org.apache.directory.api#api-util;1.0.0-M20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cd21e52
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40ea8f00
 [debug] sbt-chain: module revision found in cache: org.apache.directory.api#api-util;1.0.0-M20
 [debug] 	local: revision in cache: org.apache.directory.api#api-util;1.0.0-M20
 [debug] 	found org.apache.directory.api#api-util;1.0.0-M20 in sbt-chain
@@ -622,7 +622,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.directory.api#api-util;1.0.0-M20 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.jcraft#jsch;0.1.42 [provided->default(compile)]
 [info] Resolving com.jcraft#jsch;0.1.42 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5272299d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d0945fd
 [debug] sbt-chain: module revision found in cache: com.jcraft#jsch;0.1.42
 [debug] 	local: revision in cache: com.jcraft#jsch;0.1.42
 [debug] 	found com.jcraft#jsch;0.1.42 in sbt-chain
@@ -631,7 +631,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.jcraft#jsch;0.1.42 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-common;0.98.5-hadoop2 [provided->default(compile)]
 [info] Resolving org.apache.hbase#hbase-common;0.98.5-hadoop2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69b33b8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@493c2547
 [debug] sbt-chain: module revision found in cache: org.apache.hbase#hbase-common;0.98.5-hadoop2
 [debug] 	local: revision in cache: org.apache.hbase#hbase-common;0.98.5-hadoop2
 [debug] 	found org.apache.hbase#hbase-common;0.98.5-hadoop2 in sbt-chain
@@ -640,7 +640,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-common;0.98.5-hadoop2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.stephenc.findbugs#findbugs-annotations;1.3.9-1 [provided->default(compile)]
 [info] Resolving com.github.stephenc.findbugs#findbugs-annotations;1.3.9-1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b28daa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ef1ac93
 [debug] sbt-chain: module revision found in cache: com.github.stephenc.findbugs#findbugs-annotations;1.3.9-1
 [debug] 	local: revision in cache: com.github.stephenc.findbugs#findbugs-annotations;1.3.9-1
 [debug] 	found com.github.stephenc.findbugs#findbugs-annotations;1.3.9-1 in sbt-chain
@@ -649,7 +649,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.stephenc.findbugs#findbugs-annotations;1.3.9-1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->junit#junit;4.11 [provided->default(compile)]
 [info] Resolving junit#junit;4.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bdd6be6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28aafe84
 [debug] sbt-chain: module revision found in cache: junit#junit;4.11
 [debug] 	local: revision in cache: junit#junit;4.11
 [debug] 	found junit#junit;4.11 in sbt-chain
@@ -658,7 +658,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->junit#junit;4.11 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.hamcrest#hamcrest-core;1.3 [provided->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d13d011
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3987a7ab
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	local: revision in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
@@ -667,7 +667,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.hamcrest#hamcrest-core;1.3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-client;0.98.5-hadoop2 [provided->default(compile)]
 [info] Resolving org.apache.hbase#hbase-client;0.98.5-hadoop2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60de8537
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78eb49da
 [debug] sbt-chain: module revision found in cache: org.apache.hbase#hbase-client;0.98.5-hadoop2
 [debug] 	local: revision in cache: org.apache.hbase#hbase-client;0.98.5-hadoop2
 [debug] 	found org.apache.hbase#hbase-client;0.98.5-hadoop2 in sbt-chain
@@ -676,7 +676,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-client;0.98.5-hadoop2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-protocol;0.98.5-hadoop2 [provided->default(compile)]
 [info] Resolving org.apache.hbase#hbase-protocol;0.98.5-hadoop2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@626bddd1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@271aa05d
 [debug] sbt-chain: module revision found in cache: org.apache.hbase#hbase-protocol;0.98.5-hadoop2
 [debug] 	local: revision in cache: org.apache.hbase#hbase-protocol;0.98.5-hadoop2
 [debug] 	found org.apache.hbase#hbase-protocol;0.98.5-hadoop2 in sbt-chain
@@ -685,7 +685,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-protocol;0.98.5-hadoop2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.cloudera.htrace#htrace-core;2.04 [provided->default(compile)]
 [info] Resolving org.cloudera.htrace#htrace-core;2.04 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@752a1f1e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6785993d
 [debug] sbt-chain: module revision found in cache: org.cloudera.htrace#htrace-core;2.04
 [debug] 	local: revision in cache: org.cloudera.htrace#htrace-core;2.04
 [debug] 	found org.cloudera.htrace#htrace-core;2.04 in sbt-chain
@@ -694,7 +694,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.cloudera.htrace#htrace-core;2.04 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-server;0.98.5-hadoop2 [provided->default(compile)]
 [info] Resolving org.apache.hbase#hbase-server;0.98.5-hadoop2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bece4fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@191dbcfa
 [debug] sbt-chain: module revision found in cache: org.apache.hbase#hbase-server;0.98.5-hadoop2
 [debug] 	local: revision in cache: org.apache.hbase#hbase-server;0.98.5-hadoop2
 [debug] 	found org.apache.hbase#hbase-server;0.98.5-hadoop2 in sbt-chain
@@ -703,7 +703,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-server;0.98.5-hadoop2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.yammer.metrics#metrics-core;2.2.0 [provided->default(compile)]
 [info] Resolving com.yammer.metrics#metrics-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2179b91b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d75e907
 [debug] sbt-chain: module revision found in cache: com.yammer.metrics#metrics-core;2.2.0
 [debug] 	local: revision in cache: com.yammer.metrics#metrics-core;2.2.0
 [debug] 	found com.yammer.metrics#metrics-core;2.2.0 in sbt-chain
@@ -712,7 +712,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.yammer.metrics#metrics-core;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.stephenc.high-scale-lib#high-scale-lib;1.1.1 [provided->default(compile)]
 [info] Resolving com.github.stephenc.high-scale-lib#high-scale-lib;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30090300
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61165371
 [debug] sbt-chain: module revision found in cache: com.github.stephenc.high-scale-lib#high-scale-lib;1.1.1
 [debug] 	local: revision in cache: com.github.stephenc.high-scale-lib#high-scale-lib;1.1.1
 [debug] 	found com.github.stephenc.high-scale-lib#high-scale-lib;1.1.1 in sbt-chain
@@ -721,7 +721,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.stephenc.high-scale-lib#high-scale-lib;1.1.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [provided->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74f7311f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2eb28fcf
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.1
 [debug] 	local: revision in cache: org.apache.commons#commons-math;2.1
 [debug] 	found org.apache.commons#commons-math;2.1 in sbt-chain
@@ -730,7 +730,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-sslengine;6.1.26 [provided->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-sslengine;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3aacb202
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c0330ee
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-sslengine;6.1.26
 [debug] 	local: revision in cache: org.mortbay.jetty#jetty-sslengine;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-sslengine;6.1.26 in sbt-chain
@@ -739,7 +739,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-sslengine;6.1.26 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [provided->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-jaxrs;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55d4ab73
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59bd819a
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-jaxrs;1.8.8
 [debug] 	local: revision in cache: org.codehaus.jackson#jackson-jaxrs;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-jaxrs;1.8.8 in sbt-chain
@@ -748,7 +748,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.jamon#jamon-runtime;2.3.1 [provided->default(compile)]
 [info] Resolving org.jamon#jamon-runtime;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16b808ab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38d2e985
 [debug] sbt-chain: module revision found in cache: org.jamon#jamon-runtime;2.3.1
 [debug] 	local: revision in cache: org.jamon#jamon-runtime;2.3.1
 [debug] 	found org.jamon#jamon-runtime;2.3.1 in sbt-chain
@@ -757,7 +757,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.jamon#jamon-runtime;2.3.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.6 [provided->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bb1597e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@665f65bf
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.6
 [debug] 	local: revision in cache: org.apache.zookeeper#zookeeper;3.4.6
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.6 in sbt-chain
@@ -766,7 +766,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [provided->default(compile)]
 [info] Resolving jline#jline;0.9.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69f54fd1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@539d2061
 [debug] sbt-chain: module revision found in cache: jline#jline;0.9.94
 [debug] 	local: revision in cache: jline#jline;0.9.94
 [debug] 	found jline#jline;0.9.94 in sbt-chain
@@ -775,7 +775,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.clapper#grizzled-slf4j_2.10;1.0.2 [provided->default(compile)]
 [info] Resolving org.clapper#grizzled-slf4j_2.10;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dc5a037
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2844105b
 [debug] sbt-chain: module revision found in cache: org.clapper#grizzled-slf4j_2.10;1.0.2
 [debug] 	local: revision in cache: org.clapper#grizzled-slf4j_2.10;1.0.2
 [debug] 	found org.clapper#grizzled-slf4j_2.10;1.0.2 in sbt-chain
@@ -784,7 +784,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.clapper#grizzled-slf4j_2.10;1.0.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.7 [provided->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d6bb71f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40bf6881
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.7
 [debug] 	local: revision in cache: org.slf4j#slf4j-api;1.7.7
 [debug] 	found org.slf4j#slf4j-api;1.7.7 in sbt-chain
@@ -793,7 +793,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.7 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.elasticsearch#elasticsearch;1.3.2 [provided->default(compile)]
 [info] Resolving org.elasticsearch#elasticsearch;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a988384
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13a2ac3f
 [debug] sbt-chain: module revision found in cache: org.elasticsearch#elasticsearch;1.3.2
 [debug] 	local: revision in cache: org.elasticsearch#elasticsearch;1.3.2
 [debug] 	found org.elasticsearch#elasticsearch;1.3.2 in sbt-chain
@@ -802,7 +802,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.elasticsearch#elasticsearch;1.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-core;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-core;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@df51b1f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@470ec6f7
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-core;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-core;4.9.0
 [debug] 	found org.apache.lucene#lucene-core;4.9.0 in sbt-chain
@@ -811,7 +811,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-core;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-analyzers-common;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-analyzers-common;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@181e357e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fa3b943
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-analyzers-common;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-analyzers-common;4.9.0
 [debug] 	found org.apache.lucene#lucene-analyzers-common;4.9.0 in sbt-chain
@@ -820,7 +820,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-analyzers-common;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-codecs;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-codecs;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69e9b5d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11e566d8
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-codecs;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-codecs;4.9.0
 [debug] 	found org.apache.lucene#lucene-codecs;4.9.0 in sbt-chain
@@ -829,7 +829,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-codecs;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-queries;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-queries;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f17049b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e1a9623
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-queries;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-queries;4.9.0
 [debug] 	found org.apache.lucene#lucene-queries;4.9.0 in sbt-chain
@@ -838,7 +838,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-queries;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-memory;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-memory;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79a5b5c3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2eb2017d
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-memory;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-memory;4.9.0
 [debug] 	found org.apache.lucene#lucene-memory;4.9.0 in sbt-chain
@@ -847,7 +847,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-memory;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-highlighter;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-highlighter;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ee0d1a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@438b244b
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-highlighter;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-highlighter;4.9.0
 [debug] 	found org.apache.lucene#lucene-highlighter;4.9.0 in sbt-chain
@@ -856,7 +856,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-highlighter;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-queryparser;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-queryparser;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@374d7663
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@148041aa
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-queryparser;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-queryparser;4.9.0
 [debug] 	found org.apache.lucene#lucene-queryparser;4.9.0 in sbt-chain
@@ -865,7 +865,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-queryparser;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-sandbox;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-sandbox;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@391ca98a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ca972cf
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-sandbox;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-sandbox;4.9.0
 [debug] 	found org.apache.lucene#lucene-sandbox;4.9.0 in sbt-chain
@@ -874,7 +874,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-sandbox;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-suggest;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-suggest;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d557bed
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32abe9fd
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-suggest;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-suggest;4.9.0
 [debug] 	found org.apache.lucene#lucene-suggest;4.9.0 in sbt-chain
@@ -883,7 +883,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-suggest;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-misc;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-misc;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@765649ba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3daed990
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-misc;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-misc;4.9.0
 [debug] 	found org.apache.lucene#lucene-misc;4.9.0 in sbt-chain
@@ -892,7 +892,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-misc;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-join;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-join;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f407d56
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20abc92e
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-join;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-join;4.9.0
 [debug] 	found org.apache.lucene#lucene-join;4.9.0 in sbt-chain
@@ -901,7 +901,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-join;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-grouping;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-grouping;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f9bb784
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7923b758
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-grouping;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-grouping;4.9.0
 [debug] 	found org.apache.lucene#lucene-grouping;4.9.0 in sbt-chain
@@ -910,7 +910,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-grouping;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-spatial;4.9.0 [provided->default(compile)]
 [info] Resolving org.apache.lucene#lucene-spatial;4.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5748ab39
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b7c75f3
 [debug] sbt-chain: module revision found in cache: org.apache.lucene#lucene-spatial;4.9.0
 [debug] 	local: revision in cache: org.apache.lucene#lucene-spatial;4.9.0
 [debug] 	found org.apache.lucene#lucene-spatial;4.9.0 in sbt-chain
@@ -919,7 +919,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.lucene#lucene-spatial;4.9.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.spatial4j#spatial4j;0.4.1 [provided->default(compile)]
 [info] Resolving com.spatial4j#spatial4j;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43f8e77f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1726e925
 [debug] sbt-chain: module revision found in cache: com.spatial4j#spatial4j;0.4.1
 [debug] 	local: revision in cache: com.spatial4j#spatial4j;0.4.1
 [debug] 	found com.spatial4j#spatial4j;0.4.1 in sbt-chain
@@ -928,7 +928,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.spatial4j#spatial4j;0.4.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.antlr#antlr-runtime;3.5 [provided->default(compile)]
 [info] Resolving org.antlr#antlr-runtime;3.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3722d3a2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2348bde
 [debug] sbt-chain: module revision found in cache: org.antlr#antlr-runtime;3.5
 [debug] 	local: revision in cache: org.antlr#antlr-runtime;3.5
 [debug] 	found org.antlr#antlr-runtime;3.5 in sbt-chain
@@ -937,7 +937,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.antlr#antlr-runtime;3.5 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.ow2.asm#asm;4.1 [provided->default(compile)]
 [info] Resolving org.ow2.asm#asm;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e39839e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37fb2fcd
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm;4.1
 [debug] 	local: revision in cache: org.ow2.asm#asm;4.1
 [debug] 	found org.ow2.asm#asm;4.1 in sbt-chain
@@ -946,7 +946,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.ow2.asm#asm;4.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.ow2.asm#asm-commons;4.1 [provided->default(compile)]
 [info] Resolving org.ow2.asm#asm-commons;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76ef661a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3610f7ae
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-commons;4.1
 [debug] 	local: revision in cache: org.ow2.asm#asm-commons;4.1
 [debug] 	found org.ow2.asm#asm-commons;4.1 in sbt-chain
@@ -955,7 +955,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.ow2.asm#asm-commons;4.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-native_2.10;3.2.10 [provided->default(compile)]
 [info] Resolving org.json4s#json4s-native_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b42643a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ca0a79a
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-native_2.10;3.2.10
 [debug] 	local: revision in cache: org.json4s#json4s-native_2.10;3.2.10
 [debug] 	found org.json4s#json4s-native_2.10;3.2.10 in sbt-chain
@@ -964,7 +964,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-native_2.10;3.2.10 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cf34b62
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@528c9e2a
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.10;3.2.10
 [debug] 	local: revision in cache: org.json4s#json4s-core_2.10;3.2.10
 [debug] 	found org.json4s#json4s-core_2.10;3.2.10 in sbt-chain
@@ -973,7 +973,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46a261d6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2530958a
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.10;3.2.10
 [debug] 	local: revision in cache: org.json4s#json4s-ast_2.10;3.2.10
 [debug] 	found org.json4s#json4s-ast_2.10;3.2.10 in sbt-chain
@@ -982,7 +982,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d8d441e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@114a37bb
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	local: revision in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
@@ -991,7 +991,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [provided->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9e371a2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@732c4da6
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.10.0
 [debug] 	local: revision in cache: org.scala-lang#scalap;2.10.0
 [debug] 	found org.scala-lang#scalap;2.10.0 in sbt-chain
@@ -1000,7 +1000,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-ext_2.10;3.2.10 [provided->default(compile)]
 [info] Resolving org.json4s#json4s-ext_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60db5237
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6344b4e8
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ext_2.10;3.2.10
 [debug] 	local: revision in cache: org.json4s#json4s-ext_2.10;3.2.10
 [debug] 	found org.json4s#json4s-ext_2.10;3.2.10 in sbt-chain
@@ -1009,7 +1009,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-ext_2.10;3.2.10 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->joda-time#joda-time;2.3 [provided->default(compile)]
 [info] Resolving joda-time#joda-time;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45c99aeb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1dfed6e4
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.3
 [debug] 	local: revision in cache: joda-time#joda-time;2.3
 [debug] 	found joda-time#joda-time;2.3 in sbt-chain
@@ -1018,7 +1018,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->joda-time#joda-time;2.3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.joda#joda-convert;1.6 [provided->default(compile)]
 [info] Resolving org.joda#joda-convert;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e5b2111
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d8cb7cc
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.6
 [debug] 	local: revision in cache: org.joda#joda-convert;1.6
 [debug] 	found org.joda#joda-convert;1.6 in sbt-chain
@@ -1027,7 +1027,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.joda#joda-convert;1.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-commons_2.10;2.7.2 [provided->default(compile)]
 [info] Resolving org.mongodb#casbah-commons_2.10;2.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f694a24
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@295edc41
 [debug] sbt-chain: module revision found in cache: org.mongodb#casbah-commons_2.10;2.7.2
 [debug] 	local: revision in cache: org.mongodb#casbah-commons_2.10;2.7.2
 [debug] 	found org.mongodb#casbah-commons_2.10;2.7.2 in sbt-chain
@@ -1036,7 +1036,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-commons_2.10;2.7.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.nscala-time#nscala-time_2.10;1.0.0 [provided->default(compile)]
 [info] Resolving com.github.nscala-time#nscala-time_2.10;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@720869c3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e69b101
 [debug] sbt-chain: module revision found in cache: com.github.nscala-time#nscala-time_2.10;1.0.0
 [debug] 	local: revision in cache: com.github.nscala-time#nscala-time_2.10;1.0.0
 [debug] 	found com.github.nscala-time#nscala-time_2.10;1.0.0 in sbt-chain
@@ -1045,7 +1045,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.nscala-time#nscala-time_2.10;1.0.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#mongo-java-driver;2.12.2 [provided->default(compile)]
 [info] Resolving org.mongodb#mongo-java-driver;2.12.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9d6cefc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7848bd92
 [debug] sbt-chain: module revision found in cache: org.mongodb#mongo-java-driver;2.12.2
 [debug] 	local: revision in cache: org.mongodb#mongo-java-driver;2.12.2
 [debug] 	found org.mongodb#mongo-java-driver;2.12.2 in sbt-chain
@@ -1054,7 +1054,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#mongo-java-driver;2.12.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-core_2.10;2.7.2 [provided->default(compile)]
 [info] Resolving org.mongodb#casbah-core_2.10;2.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4170df9a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e39261e
 [debug] sbt-chain: module revision found in cache: org.mongodb#casbah-core_2.10;2.7.2
 [debug] 	local: revision in cache: org.mongodb#casbah-core_2.10;2.7.2
 [debug] 	found org.mongodb#casbah-core_2.10;2.7.2 in sbt-chain
@@ -1063,7 +1063,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-core_2.10;2.7.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-query_2.10;2.7.2 [provided->default(compile)]
 [info] Resolving org.mongodb#casbah-query_2.10;2.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38ff5192
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15102d94
 [debug] sbt-chain: module revision found in cache: org.mongodb#casbah-query_2.10;2.7.2
 [debug] 	local: revision in cache: org.mongodb#casbah-query_2.10;2.7.2
 [debug] 	found org.mongodb#casbah-query_2.10;2.7.2 in sbt-chain
@@ -1072,7 +1072,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-query_2.10;2.7.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-gridfs_2.10;2.7.2 [provided->default(compile)]
 [info] Resolving org.mongodb#casbah-gridfs_2.10;2.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5519b3a4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@704880a3
 [debug] sbt-chain: module revision found in cache: org.mongodb#casbah-gridfs_2.10;2.7.2
 [debug] 	local: revision in cache: org.mongodb#casbah-gridfs_2.10;2.7.2
 [debug] 	found org.mongodb#casbah-gridfs_2.10;2.7.2 in sbt-chain
@@ -1081,7 +1081,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mongodb#casbah-gridfs_2.10;2.7.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.7 [provided->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64225f2f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33a9f1a2
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.7
 [debug] 	local: revision in cache: org.slf4j#slf4j-log4j12;1.7.7
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.7 in sbt-chain
@@ -1090,7 +1090,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.7 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [provided->default(compile)]
 [info] Resolving org.spark-project.akka#akka-actor_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25d1ba72
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40bdb581
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-actor_2.10;2.3.4-spark
 [debug] 	local: revision in cache: org.spark-project.akka#akka-actor_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-actor_2.10;2.3.4-spark in sbt-chain
@@ -1099,7 +1099,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [provided->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a18dd6f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a199fe8
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	local: revision in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
@@ -1108,7 +1108,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#servlet-api;2.5-20081211 [provided->default(compile)]
 [info] Resolving org.mortbay.jetty#servlet-api;2.5-20081211 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a15e6b7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34eb2524
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#servlet-api;2.5-20081211
 [debug] 	local: revision in cache: org.mortbay.jetty#servlet-api;2.5-20081211
 [debug] 	found org.mortbay.jetty#servlet-api;2.5-20081211 in sbt-chain
@@ -1117,7 +1117,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.mortbay.jetty#servlet-api;2.5-20081211 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-el#commons-el;1.0 [provided->default(compile)]
 [info] Resolving commons-el#commons-el;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e20ce79
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5eb6bf2f
 [debug] sbt-chain: module revision found in cache: commons-el#commons-el;1.0
 [debug] 	local: revision in cache: commons-el#commons-el;1.0
 [debug] 	found commons-el#commons-el;1.0 in sbt-chain
@@ -1126,7 +1126,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->commons-el#commons-el;1.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.servlet.jsp#jsp-api;2.1 [provided->default(compile)]
 [info] Resolving javax.servlet.jsp#jsp-api;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6537adcf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a8dea03
 [debug] sbt-chain: module revision found in cache: javax.servlet.jsp#jsp-api;2.1
 [debug] 	local: revision in cache: javax.servlet.jsp#jsp-api;2.1
 [debug] 	found javax.servlet.jsp#jsp-api;2.1 in sbt-chain
@@ -1135,7 +1135,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.servlet.jsp#jsp-api;2.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-prefix-tree;0.98.5-hadoop2 [provided->default(compile)]
 [info] Resolving org.apache.hbase#hbase-prefix-tree;0.98.5-hadoop2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ccda2e5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11dc6219
 [debug] sbt-chain: module revision found in cache: org.apache.hbase#hbase-prefix-tree;0.98.5-hadoop2
 [debug] 	local: revision in cache: org.apache.hbase#hbase-prefix-tree;0.98.5-hadoop2
 [debug] 	found org.apache.hbase#hbase-prefix-tree;0.98.5-hadoop2 in sbt-chain
@@ -1144,7 +1144,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hbase#hbase-prefix-tree;0.98.5-hadoop2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.typesafe.play#twirl-api_2.10;1.0.3 [provided->default(compile)]
 [info] Resolving com.typesafe.play#twirl-api_2.10;1.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4437cb56
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42ed6310
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#twirl-api_2.10;1.0.3
 [debug] 	local: revision in cache: com.typesafe.play#twirl-api_2.10;1.0.3
 [debug] 	found com.typesafe.play#twirl-api_2.10;1.0.3 in sbt-chain
@@ -1153,7 +1153,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.typesafe.play#twirl-api_2.10;1.0.3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.scopt#scopt_2.10;3.2.0 [provided->default(compile)]
 [info] Resolving com.github.scopt#scopt_2.10;3.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53fa306b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28bf9e50
 [debug] sbt-chain: module revision found in cache: com.github.scopt#scopt_2.10;3.2.0
 [debug] 	local: revision in cache: com.github.scopt#scopt_2.10;3.2.0
 [debug] 	found com.github.scopt#scopt_2.10;3.2.0 in sbt-chain
@@ -1162,7 +1162,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.scopt#scopt_2.10;3.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.google.code.gson#gson;2.2.4 [provided->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65074d28
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d1bac2
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.2.4
 [debug] 	local: revision in cache: com.google.code.gson#gson;2.2.4
 [debug] 	found com.google.code.gson#gson;2.2.4 in sbt-chain
@@ -1180,7 +1180,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.google.guava#guava;18.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [provided->default(compile)]
 [info] Resolving com.twitter#chill_2.10;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ba9f180
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f57cc29
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.10;0.5.0
 [debug] 	local: revision in cache: com.twitter#chill_2.10;0.5.0
 [debug] 	found com.twitter#chill_2.10;0.5.0 in sbt-chain
@@ -1189,7 +1189,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [provided->default(compile)]
 [info] Resolving com.twitter#chill-java;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@695b7869
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45c9c619
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.5.0
 [debug] 	local: revision in cache: com.twitter#chill-java;0.5.0
 [debug] 	found com.twitter#chill-java;0.5.0 in sbt-chain
@@ -1198,7 +1198,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [provided->default(compile)]
 [info] Resolving com.esotericsoftware.kryo#kryo;2.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24ee7fea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b11b6b9
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.kryo#kryo;2.21
 [debug] 	local: revision in cache: com.esotericsoftware.kryo#kryo;2.21
 [debug] 	found com.esotericsoftware.kryo#kryo;2.21 in sbt-chain
@@ -1207,7 +1207,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [provided->default(compile)]
 [info] Resolving com.esotericsoftware.reflectasm#reflectasm;1.07 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f47e5e4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@461015e2
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.reflectasm#reflectasm;1.07
 [debug] 	local: revision in cache: com.esotericsoftware.reflectasm#reflectasm;1.07
 [debug] 	found com.esotericsoftware.reflectasm#reflectasm;1.07 in sbt-chain
@@ -1216,7 +1216,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [provided->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fe5823f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cb26862
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.2
 [debug] 	local: revision in cache: org.objenesis#objenesis;1.2
 [debug] 	found org.objenesis#objenesis;1.2 in sbt-chain
@@ -1225,7 +1225,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#chill-bijection_2.10;0.5.0 [provided->default(compile)]
 [info] Resolving com.twitter#chill-bijection_2.10;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fb4021e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31ba32f8
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-bijection_2.10;0.5.0
 [debug] 	local: revision in cache: com.twitter#chill-bijection_2.10;0.5.0
 [debug] 	found com.twitter#chill-bijection_2.10;0.5.0 in sbt-chain
@@ -1234,7 +1234,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#chill-bijection_2.10;0.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#bijection-core_2.10;0.7.0 [provided->default(compile)]
 [info] Resolving com.twitter#bijection-core_2.10;0.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ceaf524
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35c93593
 [debug] sbt-chain: module revision found in cache: com.twitter#bijection-core_2.10;0.7.0
 [debug] 	local: revision in cache: com.twitter#bijection-core_2.10;0.7.0
 [debug] 	found com.twitter#bijection-core_2.10;0.7.0 in sbt-chain
@@ -1243,7 +1243,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#bijection-core_2.10;0.7.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.jodah#typetools;0.3.1 [provided->default(compile)]
 [info] Resolving net.jodah#typetools;0.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49130e84
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fd42f20
 [debug] sbt-chain: module revision found in cache: net.jodah#typetools;0.3.1
 [debug] 	local: revision in cache: net.jodah#typetools;0.3.1
 [debug] 	found net.jodah#typetools;0.3.1 in sbt-chain
@@ -1252,7 +1252,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.jodah#typetools;0.3.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalaj#scalaj-http_2.10;1.1.0 [provided->default(compile)]
 [info] Resolving org.scalaj#scalaj-http_2.10;1.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54990c8a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f1d69b0
 [debug] sbt-chain: module revision found in cache: org.scalaj#scalaj-http_2.10;1.1.0
 [debug] 	local: revision in cache: org.scalaj#scalaj-http_2.10;1.1.0
 [debug] 	found org.scalaj#scalaj-http_2.10;1.1.0 in sbt-chain
@@ -1261,7 +1261,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalaj#scalaj-http_2.10;1.1.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.2.0 [provided->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.10;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cda578a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@178e9e0c
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.10;1.2.0
 [debug] 	local: revision in cache: org.apache.spark#spark-core_2.10;1.2.0
 [debug] 	found org.apache.spark#spark-core_2.10;1.2.0 in sbt-chain
@@ -1270,7 +1270,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74f0244c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3294834a
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-client;2.2.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-client;2.2.0 in sbt-chain
@@ -1279,7 +1279,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59192e0a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e369fb3
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.2.0 in sbt-chain
@@ -1288,7 +1288,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d1d4cf5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8b9f295
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 in sbt-chain
@@ -1297,7 +1297,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59ef683b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@357dc653
 [debug] 		tried /Users/Marco/.ivy2/local/org.apache.hadoop/hadoop-mapreduce-client-common/2.2.0/ivys/ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0
 [debug] 		tried http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
@@ -1307,7 +1307,7 @@
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom.sha1
 [debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (319ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (316ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -1318,7 +1318,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@216e8352
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@418a8437
 [debug] 		tried /Users/Marco/.ivy2/local/org.apache.hadoop/hadoop-yarn-common/2.2.0/ivys/ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-common;2.2.0
 [debug] 		tried http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
@@ -1328,7 +1328,7 @@
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom.sha1
 [debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (348ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (411ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -1339,7 +1339,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cdc04c5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b66dcad
 [debug] 		tried /Users/Marco/.ivy2/local/org.apache.hadoop/hadoop-yarn-api/2.2.0/ivys/ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-api;2.2.0
 [debug] 		tried http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
@@ -1349,7 +1349,7 @@
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom.sha1
 [debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (324ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (285ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -1360,7 +1360,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [provided->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ce98fac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e1a4796
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	local: revision in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
@@ -1369,7 +1369,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [provided->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ac6713a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2078e2af
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	local: revision in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
@@ -1378,7 +1378,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [provided->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5471e4cb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@356043e2
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	local: revision in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
@@ -1387,7 +1387,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [provided->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a36ef86
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70a328be
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	local: revision in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
@@ -1396,7 +1396,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [provided->default(compile)]
 [info] Resolving com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@593a8659
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1da1bbee
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9
 [debug] 	local: revision in cache: com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9
 [debug] 	found com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 in sbt-chain
@@ -1405,7 +1405,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [provided->default(compile)]
 [info] Resolving com.sun.jersey.contribs#jersey-guice;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@129408cd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5584d732
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.contribs#jersey-guice;1.9
 [debug] 	local: revision in cache: com.sun.jersey.contribs#jersey-guice;1.9
 [debug] 	found com.sun.jersey.contribs#jersey-guice;1.9 in sbt-chain
@@ -1414,7 +1414,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41b20640
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@263f3fd1
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-client;2.2.0 in sbt-chain
@@ -1423,7 +1423,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@181aca2f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ee9344e
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 in sbt-chain
@@ -1432,7 +1432,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23f97182
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5dd3f36d
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-common;2.2.0 in sbt-chain
@@ -1441,7 +1441,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f152e6d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7252f678
 [debug] 		tried /Users/Marco/.ivy2/local/org.apache.hadoop/hadoop-mapreduce-client-shuffle/2.2.0/ivys/ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0
 [debug] 		tried http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
@@ -1451,7 +1451,7 @@
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom.sha1
 [debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (319ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (282ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -1462,7 +1462,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@635d1caa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ca325fe
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 	local: revision in cache: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 in sbt-chain
@@ -1471,7 +1471,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [provided->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@139748f7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6de57c5f
 [debug] 		tried /Users/Marco/.ivy2/local/org.apache.hadoop/hadoop-yarn-server-nodemanager/2.2.0/ivys/ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0
 [debug] 		tried http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
@@ -1481,7 +1481,7 @@
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom.sha1
 [debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (319ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (281ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
 [debug] 		tried /Users/Marco/.ivy2/local/org.apache.hadoop/hadoop-yarn-server/2.2.0/ivys/ivy.xml
@@ -1493,7 +1493,7 @@
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
 [debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom.sha1
 [debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (323ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (287ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -1507,7 +1507,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.2.0 [provided->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.10;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@438d0f09
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f1ffcbe
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.10;1.2.0
 [debug] 	local: revision in cache: org.apache.spark#spark-network-common_2.10;1.2.0
 [debug] 	found org.apache.spark#spark-network-common_2.10;1.2.0 in sbt-chain
@@ -1516,7 +1516,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [provided->default(compile)]
 [info] Resolving io.netty#netty-all;4.0.23.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2648c03b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@599b7340
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.0.23.Final
 [debug] 	local: revision in cache: io.netty#netty-all;4.0.23.Final
 [debug] 	found io.netty#netty-all;4.0.23.Final in sbt-chain
@@ -1525,7 +1525,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [provided->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b9c708f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3acad2a3
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	local: revision in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
@@ -1534,7 +1534,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.2.0 [provided->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.10;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74cb1773
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6783bc50
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.10;1.2.0
 [debug] 	local: revision in cache: org.apache.spark#spark-network-shuffle_2.10;1.2.0
 [debug] 	found org.apache.spark#spark-network-shuffle_2.10;1.2.0 in sbt-chain
@@ -1543,7 +1543,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [provided->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38852c3c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cff09d3
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	local: revision in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	found org.apache.curator#curator-recipes;2.4.0 in sbt-chain
@@ -1552,7 +1552,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [provided->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63b46fdb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39aad8d8
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	local: revision in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	found org.apache.curator#curator-framework;2.4.0 in sbt-chain
@@ -1561,7 +1561,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [provided->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a59191f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51eafd81
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	local: revision in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	found org.apache.curator#curator-client;2.4.0 in sbt-chain
@@ -1570,7 +1570,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-plus;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-plus;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@132f2b37
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11505543
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-plus;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-plus;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-plus;8.1.14.v20131031 in sbt-chain
@@ -1579,7 +1579,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-plus;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.transaction;1.1.1.v201105210645 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.transaction;1.1.1.v201105210645 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4cec1fa1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24c364e8
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.transaction;1.1.1.v201105210645
 [debug] 	local: revision in cache: org.eclipse.jetty.orbit#javax.transaction;1.1.1.v201105210645
 [debug] 	found org.eclipse.jetty.orbit#javax.transaction;1.1.1.v201105210645 in sbt-chain
@@ -1588,7 +1588,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.transaction;1.1.1.v201105210645 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-webapp;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-webapp;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27960d45
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45124ca1
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-webapp;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-webapp;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-webapp;8.1.14.v20131031 in sbt-chain
@@ -1597,7 +1597,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-webapp;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-xml;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-xml;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29ec2b5e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e0b4ba8
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-xml;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-xml;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-xml;8.1.14.v20131031 in sbt-chain
@@ -1606,7 +1606,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-xml;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-util;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-util;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@696e5366
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21a2e499
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-util;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-util;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-util;8.1.14.v20131031 in sbt-chain
@@ -1615,7 +1615,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-util;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-servlet;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-servlet;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@316d6494
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@358fdef0
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-servlet;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-servlet;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-servlet;8.1.14.v20131031 in sbt-chain
@@ -1624,7 +1624,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-servlet;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-security;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-security;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3926c930
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26b7ca8f
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-security;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-security;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-security;8.1.14.v20131031 in sbt-chain
@@ -1633,7 +1633,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-security;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-server;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-server;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@444cf07c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@411671e8
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-server;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-server;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-server;8.1.14.v20131031 in sbt-chain
@@ -1642,7 +1642,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-server;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a5cc72d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5543662d
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	local: revision in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	found org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 in sbt-chain
@@ -1651,7 +1651,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-continuation;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-continuation;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ef15de2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@327ba164
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-continuation;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-continuation;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-continuation;8.1.14.v20131031 in sbt-chain
@@ -1660,7 +1660,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-continuation;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-http;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-http;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bbf8bf1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a72231f
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-http;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-http;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-http;8.1.14.v20131031 in sbt-chain
@@ -1669,7 +1669,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-http;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-io;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-io;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42869af9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b76ab0a
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-io;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-io;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-io;8.1.14.v20131031 in sbt-chain
@@ -1678,7 +1678,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-io;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-jndi;8.1.14.v20131031 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-jndi;8.1.14.v20131031 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7035aeca
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65ce340f
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-jndi;8.1.14.v20131031
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-jndi;8.1.14.v20131031
 [debug] 	found org.eclipse.jetty#jetty-jndi;8.1.14.v20131031 in sbt-chain
@@ -1687,7 +1687,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty#jetty-jndi;8.1.14.v20131031 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.mail.glassfish;1.4.1.v201005082020 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.mail.glassfish;1.4.1.v201005082020 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22cd5fce
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6abe9b25
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.mail.glassfish;1.4.1.v201005082020
 [debug] 	local: revision in cache: org.eclipse.jetty.orbit#javax.mail.glassfish;1.4.1.v201005082020
 [debug] 	found org.eclipse.jetty.orbit#javax.mail.glassfish;1.4.1.v201005082020 in sbt-chain
@@ -1696,7 +1696,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.mail.glassfish;1.4.1.v201005082020 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.activation;1.1.0.v201105071233 [provided->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.activation;1.1.0.v201105071233 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@615699a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43ff1905
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.activation;1.1.0.v201105071233
 [debug] 	local: revision in cache: org.eclipse.jetty.orbit#javax.activation;1.1.0.v201105071233
 [debug] 	found org.eclipse.jetty.orbit#javax.activation;1.1.0.v201105071233 in sbt-chain
@@ -1705,7 +1705,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.activation;1.1.0.v201105071233 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [provided->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50a05fcc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13d2db10
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.2
 [debug] 	local: revision in cache: org.apache.commons#commons-lang3;3.3.2
 [debug] 	found org.apache.commons#commons-lang3;3.3.2 in sbt-chain
@@ -1714,7 +1714,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.5 [provided->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50c36b19
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c3fd2cb
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.5
 [debug] 	local: revision in cache: org.slf4j#jul-to-slf4j;1.7.5
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.5 in sbt-chain
@@ -1723,7 +1723,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.5 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.5 [provided->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9c9f4d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70f71d4b
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.5
 [debug] 	local: revision in cache: org.slf4j#jcl-over-slf4j;1.7.5
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.5 in sbt-chain
@@ -1732,7 +1732,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.5 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [provided->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1195871d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e3c6401
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.0
 [debug] 	local: revision in cache: com.ning#compress-lzf;1.0.0
 [debug] 	found com.ning#compress-lzf;1.0.0 in sbt-chain
@@ -1741,7 +1741,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [provided->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fbca5f7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5afdb42a
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.1.6
 [debug] 	local: revision in cache: org.xerial.snappy#snappy-java;1.1.1.6
 [debug] 	found org.xerial.snappy#snappy-java;1.1.1.6 in sbt-chain
@@ -1750,7 +1750,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [provided->default(compile)]
 [info] Resolving net.jpountz.lz4#lz4;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62a4f085
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cd80a66
 [debug] sbt-chain: module revision found in cache: net.jpountz.lz4#lz4;1.2.0
 [debug] 	local: revision in cache: net.jpountz.lz4#lz4;1.2.0
 [debug] 	found net.jpountz.lz4#lz4;1.2.0 in sbt-chain
@@ -1759,7 +1759,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [provided->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@776b9ceb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54f10f5e
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.4.5
 [debug] 	local: revision in cache: org.roaringbitmap#RoaringBitmap;0.4.5
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.4.5 in sbt-chain
@@ -1768,7 +1768,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [provided->default(compile)]
 [info] Resolving org.spark-project.akka#akka-remote_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@751b969
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34b6da3d
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-remote_2.10;2.3.4-spark
 [debug] 	local: revision in cache: org.spark-project.akka#akka-remote_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-remote_2.10;2.3.4-spark in sbt-chain
@@ -1777,7 +1777,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [provided->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d6983fc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@127a9d0d
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	local: revision in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
@@ -1786,7 +1786,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [provided->default(compile)]
 [info] Resolving org.spark-project.protobuf#protobuf-java;2.5.0-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3803f55a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7757d689
 [debug] sbt-chain: module revision found in cache: org.spark-project.protobuf#protobuf-java;2.5.0-spark
 [debug] 	local: revision in cache: org.spark-project.protobuf#protobuf-java;2.5.0-spark
 [debug] 	found org.spark-project.protobuf#protobuf-java;2.5.0-spark in sbt-chain
@@ -1795,7 +1795,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [provided->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@337952b9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d50ae33
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	local: revision in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
@@ -1804,7 +1804,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [provided->default(compile)]
 [info] Resolving org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@698279d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34c815fe
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark
 [debug] 	local: revision in cache: org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark in sbt-chain
@@ -1813,7 +1813,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [provided->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@558768b5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@455e9d7b
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.10;3.2.10
 [debug] 	local: revision in cache: org.json4s#json4s-jackson_2.10;3.2.10
 [debug] 	found org.json4s#json4s-jackson_2.10;3.2.10 in sbt-chain
@@ -1822,7 +1822,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.3.1 [provided->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60214119
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@346157e
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.3.1
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-databind;2.3.1
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.3.1 in sbt-chain
@@ -1831,7 +1831,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.3.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.3.0 [provided->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10902007
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@283176cc
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.3.0
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-annotations;2.3.0
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.3.0 in sbt-chain
@@ -1840,7 +1840,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.3.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.3.1 [provided->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4938f5f1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@720317f4
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.3.1
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-core;2.3.1
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.3.1 in sbt-chain
@@ -1849,7 +1849,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.3.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.18.1 [provided->default(compile)]
 [info] Resolving org.apache.mesos#mesos;0.18.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bf2d1bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34c0bf00
 [debug] sbt-chain: module revision found in cache: org.apache.mesos#mesos;0.18.1
 [debug] 	local: revision in cache: org.apache.mesos#mesos;0.18.1
 [debug] 	found org.apache.mesos#mesos;0.18.1 in sbt-chain
@@ -1858,7 +1858,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.18.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [provided->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3361ac10
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67b26f10
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	local: revision in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
@@ -1867,7 +1867,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-core;3.0.0 [provided->default(compile)]
 [info] Resolving com.codahale.metrics#metrics-core;3.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@799a1e22
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@400008ab
 [debug] sbt-chain: module revision found in cache: com.codahale.metrics#metrics-core;3.0.0
 [debug] 	local: revision in cache: com.codahale.metrics#metrics-core;3.0.0
 [debug] 	found com.codahale.metrics#metrics-core;3.0.0 in sbt-chain
@@ -1876,7 +1876,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-core;3.0.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-jvm;3.0.0 [provided->default(compile)]
 [info] Resolving com.codahale.metrics#metrics-jvm;3.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f761ac4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c4e9d0d
 [debug] sbt-chain: module revision found in cache: com.codahale.metrics#metrics-jvm;3.0.0
 [debug] 	local: revision in cache: com.codahale.metrics#metrics-jvm;3.0.0
 [debug] 	found com.codahale.metrics#metrics-jvm;3.0.0 in sbt-chain
@@ -1885,7 +1885,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-jvm;3.0.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-json;3.0.0 [provided->default(compile)]
 [info] Resolving com.codahale.metrics#metrics-json;3.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d084fa3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18101c5c
 [debug] sbt-chain: module revision found in cache: com.codahale.metrics#metrics-json;3.0.0
 [debug] 	local: revision in cache: com.codahale.metrics#metrics-json;3.0.0
 [debug] 	found com.codahale.metrics#metrics-json;3.0.0 in sbt-chain
@@ -1894,7 +1894,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-json;3.0.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-graphite;3.0.0 [provided->default(compile)]
 [info] Resolving com.codahale.metrics#metrics-graphite;3.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d7d618b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22744975
 [debug] sbt-chain: module revision found in cache: com.codahale.metrics#metrics-graphite;3.0.0
 [debug] 	local: revision in cache: com.codahale.metrics#metrics-graphite;3.0.0
 [debug] 	found com.codahale.metrics#metrics-graphite;3.0.0 in sbt-chain
@@ -1903,7 +1903,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.codahale.metrics#metrics-graphite;3.0.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [provided->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-client;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3eb601a7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@604ac730
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-client;0.5.0
 [debug] 	local: revision in cache: org.tachyonproject#tachyon-client;0.5.0
 [debug] 	found org.tachyonproject#tachyon-client;0.5.0 in sbt-chain
@@ -1912,7 +1912,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [provided->default(compile)]
 [info] Resolving org.tachyonproject#tachyon;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73aec911
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f149ce2
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon;0.5.0
 [debug] 	local: revision in cache: org.tachyonproject#tachyon;0.5.0
 [debug] 	found org.tachyonproject#tachyon;0.5.0 in sbt-chain
@@ -1921,7 +1921,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [provided->default(compile)]
 [info] Resolving org.spark-project#pyrolite;2.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a8127ab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ddeccb6
 [debug] sbt-chain: module revision found in cache: org.spark-project#pyrolite;2.0.1
 [debug] 	local: revision in cache: org.spark-project#pyrolite;2.0.1
 [debug] 	found org.spark-project#pyrolite;2.0.1 in sbt-chain
@@ -1930,7 +1930,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [provided->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.8.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5708c736
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@145b3a70
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.8.2.1
 [debug] 	local: revision in cache: net.sf.py4j#py4j;0.8.2.1
 [debug] 	found net.sf.py4j#py4j;0.8.2.1 in sbt-chain
@@ -1939,7 +1939,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-mllib_2.10;1.2.0 [provided->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib_2.10;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61c77f50
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7003f9f5
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib_2.10;1.2.0
 [debug] 	local: revision in cache: org.apache.spark#spark-mllib_2.10;1.2.0
 [debug] 	found org.apache.spark#spark-mllib_2.10;1.2.0 in sbt-chain
@@ -1948,7 +1948,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-mllib_2.10;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.2.0 [provided->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.10;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c672c13
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d77418a
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.10;1.2.0
 [debug] 	local: revision in cache: org.apache.spark#spark-streaming_2.10;1.2.0
 [debug] 	found org.apache.spark#spark-streaming_2.10;1.2.0 in sbt-chain
@@ -1957,7 +1957,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-sql_2.10;1.2.0 [provided->default(compile)]
 [info] Resolving org.apache.spark#spark-sql_2.10;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79c18836
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a8a5b2
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sql_2.10;1.2.0
 [debug] 	local: revision in cache: org.apache.spark#spark-sql_2.10;1.2.0
 [debug] 	found org.apache.spark#spark-sql_2.10;1.2.0 in sbt-chain
@@ -1966,7 +1966,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-sql_2.10;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-catalyst_2.10;1.2.0 [provided->default(compile)]
 [info] Resolving org.apache.spark#spark-catalyst_2.10;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71899d27
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e4c7de6
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-catalyst_2.10;1.2.0
 [debug] 	local: revision in cache: org.apache.spark#spark-catalyst_2.10;1.2.0
 [debug] 	found org.apache.spark#spark-catalyst_2.10;1.2.0 in sbt-chain
@@ -1975,7 +1975,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.apache.spark#spark-catalyst_2.10;1.2.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17a558d6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79b08919
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.4
 [debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.10.4
 [debug] 	found org.scala-lang#scala-compiler;2.10.4 in sbt-chain
@@ -1984,7 +1984,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@627cf311
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d266bc7
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
 [debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.4
 [debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
@@ -1994,7 +1994,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->default(compile)]
 [info] Resolving org.scalamacros#quasiquotes_2.10;2.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@530094e4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f8107b1
 [debug] sbt-chain: module revision found in cache: org.scalamacros#quasiquotes_2.10;2.0.1
 [debug] 	local: revision in cache: org.scalamacros#quasiquotes_2.10;2.0.1
 [debug] 	found org.scalamacros#quasiquotes_2.10;2.0.1 in sbt-chain
@@ -2003,7 +2003,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalamacros#quasiquotes_2.10;2.0.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-column;1.6.0rc3 [provided->default(compile)]
 [info] Resolving com.twitter#parquet-column;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fab59af
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1548a819
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-column;1.6.0rc3
 [debug] 	local: revision in cache: com.twitter#parquet-column;1.6.0rc3
 [debug] 	found com.twitter#parquet-column;1.6.0rc3 in sbt-chain
@@ -2012,7 +2012,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-column;1.6.0rc3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-common;1.6.0rc3 [provided->default(compile)]
 [info] Resolving com.twitter#parquet-common;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34c0b365
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78dc38a5
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-common;1.6.0rc3
 [debug] 	local: revision in cache: com.twitter#parquet-common;1.6.0rc3
 [debug] 	found com.twitter#parquet-common;1.6.0rc3 in sbt-chain
@@ -2021,7 +2021,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-common;1.6.0rc3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-encoding;1.6.0rc3 [provided->default(compile)]
 [info] Resolving com.twitter#parquet-encoding;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7349e77a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a37a70a
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-encoding;1.6.0rc3
 [debug] 	local: revision in cache: com.twitter#parquet-encoding;1.6.0rc3
 [debug] 	found com.twitter#parquet-encoding;1.6.0rc3 in sbt-chain
@@ -2030,7 +2030,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-encoding;1.6.0rc3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-generator;1.6.0rc3 [provided->default(compile)]
 [info] Resolving com.twitter#parquet-generator;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d416719
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38cda31c
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-generator;1.6.0rc3
 [debug] 	local: revision in cache: com.twitter#parquet-generator;1.6.0rc3
 [debug] 	found com.twitter#parquet-generator;1.6.0rc3 in sbt-chain
@@ -2039,7 +2039,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-generator;1.6.0rc3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-hadoop;1.6.0rc3 [provided->default(compile)]
 [info] Resolving com.twitter#parquet-hadoop;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31aba6bd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e1aa124
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-hadoop;1.6.0rc3
 [debug] 	local: revision in cache: com.twitter#parquet-hadoop;1.6.0rc3
 [debug] 	found com.twitter#parquet-hadoop;1.6.0rc3 in sbt-chain
@@ -2048,7 +2048,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-hadoop;1.6.0rc3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-format;2.2.0-rc1 [provided->default(compile)]
 [info] Resolving com.twitter#parquet-format;2.2.0-rc1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@508c4bff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49f7864
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-format;2.2.0-rc1
 [debug] 	local: revision in cache: com.twitter#parquet-format;2.2.0-rc1
 [debug] 	found com.twitter#parquet-format;2.2.0-rc1 in sbt-chain
@@ -2057,7 +2057,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-format;2.2.0-rc1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-jackson;1.6.0rc3 [provided->default(compile)]
 [info] Resolving com.twitter#parquet-jackson;1.6.0rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@530b186f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b076fa3
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-jackson;1.6.0rc3
 [debug] 	local: revision in cache: com.twitter#parquet-jackson;1.6.0rc3
 [debug] 	found com.twitter#parquet-jackson;1.6.0rc3 in sbt-chain
@@ -2066,7 +2066,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.twitter#parquet-jackson;1.6.0rc3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.jblas#jblas;1.2.3 [provided->default(compile)]
 [info] Resolving org.jblas#jblas;1.2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@af3283d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@431c6117
 [debug] sbt-chain: module revision found in cache: org.jblas#jblas;1.2.3
 [debug] 	local: revision in cache: org.jblas#jblas;1.2.3
 [debug] 	found org.jblas#jblas;1.2.3 in sbt-chain
@@ -2075,7 +2075,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.jblas#jblas;1.2.3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalanlp#breeze_2.10;0.10 [provided->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.10;0.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@487eba2a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21b5916b
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.10;0.10
 [debug] 	local: revision in cache: org.scalanlp#breeze_2.10;0.10
 [debug] 	found org.scalanlp#breeze_2.10;0.10 in sbt-chain
@@ -2084,7 +2084,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalanlp#breeze_2.10;0.10 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalanlp#breeze-macros_2.10;0.3.1 [provided->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.10;0.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1354f2af
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cbc542d
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.10;0.3.1
 [debug] 	local: revision in cache: org.scalanlp#breeze-macros_2.10;0.3.1
 [debug] 	found org.scalanlp#breeze-macros_2.10;0.3.1 in sbt-chain
@@ -2093,7 +2093,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.scalanlp#breeze-macros_2.10;0.3.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.fommil.netlib#core;1.1.2 [provided->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f1d794
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63f88f9b
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	local: revision in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
@@ -2102,7 +2102,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.fommil.netlib#core;1.1.2 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [provided->default(compile)]
 [info] Resolving net.sourceforge.f2j#arpack_combined_all;0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b29ad27
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ceb87d3
 [debug] sbt-chain: module revision found in cache: net.sourceforge.f2j#arpack_combined_all;0.1
 [debug] 	local: revision in cache: net.sourceforge.f2j#arpack_combined_all;0.1
 [debug] 	found net.sourceforge.f2j#arpack_combined_all;0.1 in sbt-chain
@@ -2111,7 +2111,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.sf.opencsv#opencsv;2.3 [provided->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7889ee69
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11a8a4fe
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	local: revision in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
@@ -2120,7 +2120,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->net.sf.opencsv#opencsv;2.3 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.rwl#jtransforms;2.4.0 [provided->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4602ab64
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ccd3bff
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	local: revision in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
@@ -2129,7 +2129,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.github.rwl#jtransforms;2.4.0 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spire-math#spire_2.10;0.7.4 [provided->default(compile)]
 [info] Resolving org.spire-math#spire_2.10;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2194e72d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3230fa80
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.10;0.7.4
 [debug] 	local: revision in cache: org.spire-math#spire_2.10;0.7.4
 [debug] 	found org.spire-math#spire_2.10;0.7.4 in sbt-chain
@@ -2138,7 +2138,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spire-math#spire_2.10;0.7.4 [provided->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spire-math#spire-macros_2.10;0.7.4 [provided->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.10;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@512a9b92
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43495aa8
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.10;0.7.4
 [debug] 	local: revision in cache: org.spire-math#spire-macros_2.10;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.10;0.7.4 in sbt-chain
@@ -3906,7 +3906,7 @@
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->org.spire-math#spire-macros_2.10;0.7.4 [compile-internal->master]
 [debug] == resolving dependencies semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile-internal->default(compile)]
 [info] Resolving com.esotericsoftware.minlog#minlog;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c4391cc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fdf55ff
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.minlog#minlog;1.2
 [debug] 	local: revision in cache: com.esotericsoftware.minlog#minlog;1.2
 [debug] 	found com.esotericsoftware.minlog#minlog;1.2 in sbt-chain
@@ -6459,7 +6459,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
-[debug] :: resolution report :: resolve 17100ms :: artifacts dl 233ms
+[debug] :: resolution report :: resolve 11636ms :: artifacts dl 198ms
 [debug] 	report for semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0 compile produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sources_javadoc_2.10-compile.xml
 [debug] 	report for semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0 runtime produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sources_javadoc_2.10-runtime.xml
 [debug] 	report for semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0 test produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sources_javadoc_2.10-test.xml
@@ -6473,4 +6473,4 @@
 [debug] 	report for semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0 docs produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sources_javadoc_2.10-docs.xml
 [debug] 	report for semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0 pom produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sources_javadoc_2.10-pom.xml
 [debug] 	report for semanticanalysis#semanticanalysis$sources_javadoc_2.10;1.0 scala-tool produced in /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/resolution-cache/reports/semanticanalysis-semanticanalysis$sources_javadoc_2.10-scala-tool.xml
-[debug] 	resolve done (17100ms resolve - 233ms download)
+[debug] 	resolve done (11636ms resolve - 198ms download)

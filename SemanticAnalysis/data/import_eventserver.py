@@ -8,17 +8,18 @@ import argparse
 print "Importing data..."
 data = open(file, 'r')
 
-for elem in data:
-    elem = elem.rstrip('\n').split("\t")
-    client.create_event(
-        event = "phrases",
-        entity_type = "source",
-        entity_id = int(elem[0]), # use PhraseID
-        properties= {
-            "sentiment" : int(elem[3]),
-            "phrase" : elem[2]
-        }
-    )
+def import_events(client, file):
+    for elem in data:
+        elem = elem.rstrip('\n').split("\t")
+        client.create_event(
+            event = "phrases",
+            entity_type = "source",
+            entity_id = int(elem[0]), # use PhraseID
+            properties= {
+                "sentiment" : int(elem[3]),
+                "phrase" : elem[2]
+            }
+        )
 
 print "%s events are imported." % count
 
