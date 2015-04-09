@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /Users/Marco/test-engine2/target/scala-2.10/classes
+output dir -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes
 compile options:
 0 items
 javac options:
@@ -17,11 +17,59 @@ compile order:
 0 -> Mixed
 name hashing:
 1 items
-0 -> false
+0 -> true
 products:
-0 items
+26 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$1.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$2.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$3$$anonfun$apply$1.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$3.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$4.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/AlgorithmParams$.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/AlgorithmParams.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DummyData$.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DummyData.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Model$.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Model.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSource$$anonfun$1.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSource.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSourceParams$.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSourceParams.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SentArray$.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SentArray.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/TrainingData.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/PredictedResult.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Query.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SemanticAnalysisEngine$.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SemanticAnalysisEngine.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Preparator.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/PreparedData.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Serving.class
 binary dependencies:
-0 items
+22 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/.ivy2/local/io.prediction/core_2.10/0.9.1/jars/core_2.10.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/NGramMachine.class
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/.ivy2/cache/org.clapper/grizzled-slf4j_2.10/jars/grizzled-slf4j_2.10-1.0.2.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/.ivy2/local/io.prediction/core_2.10/0.9.1/jars/core_2.10.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/.ivy2/local/io.prediction/data_2.10/0.9.1/jars/data_2.10.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/.ivy2/local/io.prediction/core_2.10/0.9.1/jars/core_2.10.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> /Users/Marco/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> /Users/Marco/.ivy2/local/io.prediction/core_2.10/0.9.1/jars/core_2.10.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> /Users/Marco/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> /Users/Marco/.ivy2/local/io.prediction/core_2.10/0.9.1/jars/core_2.10.jar
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> /Users/Marco/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -31,7 +79,16 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-0 items
+9 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> /Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -39,33 +96,368 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-0 items
+26 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Algorithm
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Algorithm$$anonfun$1
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Algorithm$$anonfun$2
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Algorithm$$anonfun$3
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Algorithm$$anonfun$3$$anonfun$apply$1
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Algorithm$$anonfun$4
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.AlgorithmParams
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.AlgorithmParams$
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.DummyData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.DummyData$
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Model
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis.Model$
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis.DataSource
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis.DataSource$$anonfun$1
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis.DataSourceParams
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis.DataSourceParams$
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis.SentArray
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis.SentArray$
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis.TrainingData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> SemanticAnalysis.PredictedResult
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> SemanticAnalysis.Query
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> SemanticAnalysis.SemanticAnalysisEngine
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> SemanticAnalysis.SemanticAnalysisEngine$
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> SemanticAnalysis.Preparator
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> SemanticAnalysis.PreparedData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> SemanticAnalysis.Serving
 used names:
-0 items
+241 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> !=
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> &&
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> <init>
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> ==
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> AbstractFunction1
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> AbstractFunction2
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Algorithm
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> AlgorithmParams
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Array
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> ClassTag
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Double
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Double2double
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> DummyData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> HashMap
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Int
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Integer
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> JavaConverters
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> LabeledPoint
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> LinkedHashSet
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> ManifestFactory
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Model
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> NGramMachine
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> NGramUniverse
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> NaiveBayes
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> NaiveBayesModel
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> None
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> P2LAlgorithm
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Params
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Predef
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> PredictedResult
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> PreparedData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Product
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Query
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> ScalaRunTime
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SemanticAnalysis
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Serializable
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> SparkContext
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Statics
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> String
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> Vectors
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> _hashCode
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> _toString
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> apache
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> apply
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> asInstanceOf
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> asJava
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> asJavaIteratorConverter
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> canBuildFrom
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> classType
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> classification
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> collection
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> controller
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> create_universe
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> data
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> dense
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> doubleHash
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> e
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> eq
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> extract
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> filter
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> finalizeHash
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> hash2Vect
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> int2Integer
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> io
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> isInstanceOf
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> java
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> labPhrases
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> labeledPhrases
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> lambda
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> lang
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> linalg
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> map
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> materializeClassTag
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> mix
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> mllib
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> model
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> nGramWindow
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> nGrams
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> nb
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> org
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> package
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> params
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> phrase
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> predict
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> prediction
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> query
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> refArrayOps
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> reflect
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> regression
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> runtime
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> sentiment
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> spark
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> toLocalIterator
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> toString
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> train
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> transformedData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> typedProductIterator
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> universe
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> util
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> ||
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> &&
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> <init>
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> ==
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> AbstractFunction1
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> AbstractFunction2
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> ClassTag
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> DataSource
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> DataSourceParams
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Double
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> EmptyActualResult
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> EmptyEvaluationInfo
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Int
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> List
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Logger
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> ManifestFactory
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> None
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> PDataSource
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Params
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Predef
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Product
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Query
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> RDD
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> ScalaRunTime
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SemanticAnalysis
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SentArray
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Serializable
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> SparkContext
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Statics
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> Storage
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> String
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> TrainingData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> _toString
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> anyHash
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> apache
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> appId
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> apply
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> asInstanceOf
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> classType
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> controller
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> data
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> doubleHash
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> dsp
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> e
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> eq
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> eventsDb
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> finalizeHash
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> find
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> get
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> getPEvents
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> grizzled
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> immutable
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> io
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> isInstanceOf
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> labeledPhrases
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> logger
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> map
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> materializeClassTag
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> mix
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> org
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> package
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> phrase
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> phrases
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> prediction
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> properties
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> rdd
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> reflect
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> runtime
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> sc
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> sentiment
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> slf4j
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> spark
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> storage
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> toString
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> typedProductIterator
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$1
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$2
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$3
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$4
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$5
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$6
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$7
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$8
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> x$9
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> ||
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> ->
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> <init>
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> Double
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> Engine
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> IEngineFactory
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> Map
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> Predef
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> PredictedResult
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> Query
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> SemanticAnalysis
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> SemanticAnalysisEngine
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> Serializable
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> String
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> any2ArrowAssoc
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> apply
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> controller
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> io
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> phrase
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> prediction
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> sentiment
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> <init>
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> PPreparator
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> Preparator
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> PreparedData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> RDD
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> SemanticAnalysis
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> SentArray
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> Serializable
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> SparkContext
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> TrainingData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> apache
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> controller
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> io
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> labeledPhrases
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> org
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> prediction
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> rdd
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> scala
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> spark
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> trainingData
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> <init>
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> LServing
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> PredictedResult
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> Query
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> SemanticAnalysis
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> Seq
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> Serving
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> controller
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> head
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> io
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> package
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> predictedResults
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> prediction
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> scala
 product stamps:
-0 items
+26 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$1.class -> lastModified(1428542518000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$2.class -> lastModified(1428542518000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$3$$anonfun$apply$1.class -> lastModified(1428542518000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$3.class -> lastModified(1428542518000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm$$anonfun$4.class -> lastModified(1428542518000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Algorithm.class -> lastModified(1428542518000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/AlgorithmParams$.class -> lastModified(1428542519000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/AlgorithmParams.class -> lastModified(1428542519000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSource$$anonfun$1.class -> lastModified(1428600935000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSource.class -> lastModified(1428600935000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSourceParams$.class -> lastModified(1428600935000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DataSourceParams.class -> lastModified(1428600935000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DummyData$.class -> lastModified(1428542519000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/DummyData.class -> lastModified(1428542519000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Model$.class -> lastModified(1428542519000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Model.class -> lastModified(1428542519000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/PredictedResult.class -> lastModified(1428536187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Preparator.class -> lastModified(1428536187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/PreparedData.class -> lastModified(1428536187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Query.class -> lastModified(1428536187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SemanticAnalysisEngine$.class -> lastModified(1428536187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SemanticAnalysisEngine.class -> lastModified(1428536187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SentArray$.class -> lastModified(1428600935000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/SentArray.class -> lastModified(1428600935000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/Serving.class -> lastModified(1428536187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/TrainingData.class -> lastModified(1428600935000)
 source stamps:
-2 items
-/Users/Marco/test-engine2/src/main/scala/DataSource.scala -> hash(da39a3ee5e6b4b0d3255bfef95601890afd80709)
-/Users/Marco/test-engine2/src/main/scala/NGramModel.scala -> hash(6eef6f0ba394d9e33508149160ea973490670d6f)
+6 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/java/SemanticAnalysis/NGramMachine.java -> hash(5587df39f39b9270d0793433622b8139ff4e97ac)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> hash(2d2fabc600e0a9af50e5310de5214e526a4d9f2b)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> hash(7133e54183c0c2576fd8f12f80907834f588b8dc)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> hash(9ee40695b1e4d1c41fcf875a35638d5b9b1c3d0d)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> hash(dee7448449d7d77d653c64cf015bf2f2d5eaf0b0)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> hash(683fad99a2e702ec021059fd59e79cdf40b54ff8)
 binary stamps:
-0 items
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1426248356000)
+/Users/Marco/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar -> lastModified(1376674284000)
+/Users/Marco/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar -> lastModified(1418205503000)
+/Users/Marco/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar -> lastModified(1418205516000)
+/Users/Marco/.ivy2/cache/org.clapper/grizzled-slf4j_2.10/jars/grizzled-slf4j_2.10-1.0.2.jar -> lastModified(1398608828000)
+/Users/Marco/.ivy2/local/io.prediction/core_2.10/0.9.1/jars/core_2.10.jar -> lastModified(1427859547000)
+/Users/Marco/.ivy2/local/io.prediction/data_2.10/0.9.1/jars/data_2.10.jar -> lastModified(1427859547000)
+/Users/Marco/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/NGramMachine.class -> lastModified(1428536188000)
 class names:
-0 items
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Marco/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar -> org.joda.time.DateTime
+/Users/Marco/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar -> org.apache.spark.SparkContext
+/Users/Marco/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar -> org.apache.spark.mllib.linalg.Vectors$
+/Users/Marco/.ivy2/cache/org.clapper/grizzled-slf4j_2.10/jars/grizzled-slf4j_2.10-1.0.2.jar -> grizzled.slf4j.Logger$
+/Users/Marco/.ivy2/local/io.prediction/core_2.10/0.9.1/jars/core_2.10.jar -> io.prediction.controller.Params
+/Users/Marco/.ivy2/local/io.prediction/data_2.10/0.9.1/jars/data_2.10.jar -> io.prediction.data.storage.Storage$
+/Users/Marco/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Serializable
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/target/scala-2.10/classes/SemanticAnalysis/NGramMachine.class -> SemanticAnalysis.NGramMachine
 internal apis:
-2 items
-/Users/Marco/test-engine2/src/main/scala/DataSource.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHRy9251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAMy9Vc2Vycy9NYXJjby90ZXN0LWVuZ2luZTIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNo5o+5ea0sNMlW/75VgGJCv2AcJ
-/Users/Marco/test-engine2/src/main/scala/NGramModel.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHRy9251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAMy9Vc2Vycy9NYXJjby90ZXN0LWVuZ2luZTIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFG7vbwujlNnjNQgUkWDqlzSQZw1v
+6 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/java/SemanticAnalysis/NGramMachine.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTJtkRDt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRVh98585uScNB5NDNiK4E5/06XrA==
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDRJ5wZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cF/+oKJ0AAZub3RpZnlzcQB+AAzxb/w8dAAKaXNQYXJhbGxlbHNxAH4ADBPmT5J0AAZuR3JhbXNzcQB+AAwpu4ihdAAEd2FpdHNxAH4ADKQwsx90AAtuR3JhbVdpbmRvd3NxAH4ADMbY89V0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADM4If+Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAMP4eG2HQADGJhdGNoUHJlZGljdHNxAH4ADBI9EhJ0AAtwcmVkaWN0QmFzZXNxAH4ADBjv+jR0AAxwcm9kdWN0QXJpdHlzcQB+AAwGfPNndAATbWFrZVBlcnNpc3RlbnRNb2RlbHNxAH4ADMeDDXF0AAZlcXVhbHNzcQB+AAzR2DP8dAAPQWxnb3JpdGhtUGFyYW1zc3EAfgAM3EEre3QADGFzSW5zdGFuY2VPZnNxAH4ADB49XtZ0AAZsYW1iZGFzcQB+AAzZm76kdAAGcGFyYW1zc3EAfgAMbMzuBHQADHN5bmNocm9uaXplZHNxAH4ADD1M6bR0AA0kaXNJbnN0YW5jZU9mc3EAfgAMAToQnXQAEGJhdGNoUHJlZGljdEJhc2VzcQB+AAzAyvoKdAAIY2FuRXF1YWxzcQB+AAwGRpiBdAAPcXVlcnlTZXJpYWxpemVyc3EAfgAMX/IAdXQADXByb2R1Y3RQcmVmaXhzcQB+AAzZy7SQdAAGaXNKYXZhc3EAfgAMtZJSF3QADXF1ZXJ5TWFuaWZlc3RzcQB+AAyJYWX8dAAJbm90aWZ5QWxsc3EAfgAMQYaTPnQABU1vZGVsc3EAfgAMpqY8P3QAAm5ic3EAfgAM0awngHQADGlzSW5zdGFuY2VPZnNxAH4ADCls8jZ0AAY8aW5pdD5zcQB+AAyTvYWrdAAJdHJhaW5CYXNlc3EAfgAMiNBCT3QAAj09c3EAfgAM4R6wOXQABWNsb25lc3EAfgAMTTqMznQABGNvcHlzcQB+AAy5GXKjdAAIdG9TdHJpbmdzcQB+AAzKkGFSdAACIT1zcQB+AAzLu6ngdAAIdW5pdmVyc2VzcQB+AAzKdc9ddAAJRHVtbXlEYXRhc3EAfgAM362B3HQABXRyYWluc3EAfgAMsTvWIXQAB3ByZWRpY3RzcQB+AAyiiYM7dAAIZ2V0Q2xhc3NzcQB+AAw+S3gSdAAOY29weSRkZWZhdWx0JDFzcQB+AAz4NNC0dAAJQWxnb3JpdGhtc3EAfgAMPRwzsnQAAm5lc3EAfgAMXMmNP3QAAmVxc3EAfgAMPbTt43QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADItFgEN0AAIjI3NxAH4ADGqpprJ0AAhmaW5hbGl6ZXNxAH4ADEDN5Qt0AA5wcm9kdWN0RWxlbWVudHNxAH4ADLClG6d0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACBTZW1hbnRpY0FuYWx5c2lzLkFsZ29yaXRobVBhcmFtc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5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udGljQW5hbHlzaXMuRHVtbXlEYXRhdXEAfgCJAAAAAHEAfgCNdXEAfgCPAAAAAHNxAH4AkQFxAH4AmXBzcQB+AJEBc3EAfgCbc3EAfgCRAXVxAH4AdAAAAABwc3EAfgCRAXVxAH4AdAAAAABwc3EAfgCRAXVxAH4AogAAAAZzcQB+AKRxAH4Ap3NxAH4AqHNxAH4Aq3VxAH4ArgAAAAJzcQB+ALBxAH4As3EAfgC1c3EAfgCkdAAGRXF1YWxzcQB+ATZzcQB+AKRxAH4AxHEAfgE2c3EAfgCkcQB+AMRzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+AMpzcQB+ALB0AAJpb3EAfgC1c3EAfgCkcQB+AM5zcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+AMpzcQB+ALBxAH4A1HEAfgC1c3EAfgCkcQB+ANZxAH4BNnBwc3EAfgB2cQB+AIN1cQB+AIQAAAAAc3EAfgCGAHQAFlNlbWFudGljQW5hbHlzaXMuTW9kZWx1cQB+AIkAAAAAcQB+AI11cQB+AI8AAAAAc3EAfgCRAXEAfgCZcHNxAH4AkQFzcQB+AJtzcQB+AJEBdXEAfgB0AAAAAHBzcQB+AJEBdXEAfgB0AAAAAHBzcQB+AJEBdXEAfgCiAAAABnNxAH4ApHEAfgCnc3EAfgCoc3EAfgCrdXEAfgCuAAAAAnNxAH4AsHEAfgCzcQB+ALVzcQB+AKR0AAZFcXVhbHNxAH4BW3NxAH4ApHEAfgDEcQB+AVtzcQB+AKRxAH4AxHNxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALBxAH4AynNxAH4AsHQAAmlvcQB+ALVzcQB+AKRxAH4AznNxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALBxAH4AynNxAH4AsHEAfgDUcQB+ALVzcQB+AKRxAH4A1nEAfgFbcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABBTZW1hbnRpY0FuYWx5c2lzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMm8S6l3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEwvVXNlcnMvTWFyY28vU2VtYW50aWNBbmFseXNpc1JlcG8vU2VtYW50aWNBbmFseXNpcy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAULS+rxgDgqa9Q5TEN5SFOUmpNnys=
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB8k8CQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK69g+t0AAxyZWFkRXZhbEJhc2VzcQB+AAxS5vZbdAAGbm90aWZ5c3EAfgAMUURErnQABHJlYWRzcQB+AAzS5o8EdAAMVHJhaW5pbmdEYXRhc3EAfgAMaX0UqHQABHdhaXRzcQB+AAyinam2dAAOY29weSRkZWZhdWx0JDJzcQB+AAxjYW+HdAANJGFzSW5zdGFuY2VPZnNxAH4ADHngM750AANkc3BzcQB+AAzuTADEdAAGbG9nZ2Vyc3EAfgAMblQHQnQADHByb2R1Y3RBcml0eXNxAH4ADD9HzpR0AAZlcXVhbHNzcQB+AAxQnv7ydAAQRGF0YVNvdXJjZVBhcmFtc3NxAH4ADEWxTHF0AAxhc0luc3RhbmNlT2ZzcQB+AAxp1XhpdAAJc2VudGltZW50c3EAfgAMlOl2D3QADHN5bmNocm9uaXplZHNxAH4ADO4PNZt0AAZwaHJhc2VzcQB+AAzazV3ydAANJGlzSW5zdGFuY2VPZnNxAH4ADB/We410AAhyZWFkRXZhbHNxAH4ADEMZucV0AAlTZW50QXJyYXlzcQB+AAylOXYNdAAIY2FuRXF1YWxzcQB+AAwrHe34dAANcHJvZHVjdFByZWZpeHNxAH4ADA7rBDZ0AAlub3RpZnlBbGxzcQB+AAxO+GN2dAAMaXNJbnN0YW5jZU9mc3EAfgAMXYEYjnQABjxpbml0PnNxAH4ADLPvPjR0AAI9PXNxAH4ADAMneV50AAVjbG9uZXNxAH4ADEkWhE50AARjb3B5c3EAfgAMP4wW8HQACHRvU3RyaW5nc3EAfgAMCvYOa3QAAiE9c3EAfgAM4WYw2nQACGdldENsYXNzc3EAfgAMRgyriXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMn5g4NnQABWFwcElkc3EAfgAMMEhNl3QAAm5lc3EAfgAMIfb60HQAAmVxc3EAfgAMop0l9XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADM5YWNp0ABByZWFkVHJhaW5pbmdCYXNlc3EAfgAM3Ai6THQAAiMjc3EAfgAM2pUvE3QACkRhdGFTb3VyY2VzcQB+AAwAIPSrdAAIZmluYWxpemVzcQB+AAyfJNnhdAAMcmVhZFRyYWluaW5nc3EAfgAMMZNzcnQADnByb2R1Y3RFbGVtZW50c3EAfgAM+/+tg3QACGhhc2hDb2Rlc3EAfgAMKHUvRnQADmxhYmVsZWRQaHJhc2Vzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AbXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAIVNlbWFudGljQW5hbHlzaXMuRGF0YVNvdXJjZVBhcmFtc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCFAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBtTAAJaW5oZXJpdGVkcQB+AG1MAAdwYXJlbnRzcQB+AG14cQB+AIxzcQB+AIUBdXEAfgBoAAAAAHB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
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAXQzGdAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGcdYQt0AAZub3RpZnlzcQB+AAx9HxGKdAAEd2FpdHNxAH4ADM1JYmd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMsmvp2HQABmVxdWFsc3NxAH4ADFI7miN0ABZTZW1hbnRpY0FuYWx5c2lzRW5naW5lc3EAfgAMYXI28nQADGFzSW5zdGFuY2VPZnNxAH4ADFCrix90AAlzZW50aW1lbnRzcQB+AAycqIDDdAAMZW5naW5lUGFyYW1zc3EAfgAMO+jyXnQADHN5bmNocm9uaXplZHNxAH4ADBed9Rl0AAZwaHJhc2VzcQB+AAzQc/mYdAANJGlzSW5zdGFuY2VPZnNxAH4ADIVioXV0AAVRdWVyeXNxAH4ADML8UIZ0AAlub3RpZnlBbGxzcQB+AAwps+ZddAAMaXNJbnN0YW5jZU9mc3EAfgAM8BUKFHQABjxpbml0PnNxAH4ADMO/D510AAVhcHBseXNxAH4ADERPhzd0AA9QcmVkaWN0ZWRSZXN1bHRzcQB+AAzGLooldAACPT1zcQB+AAxCrptPdAAFY2xvbmVzcQB+AAztGHfedAAIdG9TdHJpbmdzcQB+AAyt3rKDdAACIT1zcQB+AAwyYmIodAAIZ2V0Q2xhc3NzcQB+AAwbRtdgdAACbmVzcQB+AAytO6mWdAACZXFzcQB+AAzyXHqadAACIyNzcQB+AAwiPgQvdAAIZmluYWxpemVzcQB+AAxM+YQbdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAWU2VtYW50aWNBbmFseXNpcy5RdWVyeXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aEN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
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDv7aw6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNZSipp0AAZub3RpZnlzcQB+AAwlNltgdAAEd2FpdHNxAH4ADKO/wGp0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6/vu3XQABmVxdWFsc3NxAH4ADFjxluZ0AAxhc0luc3RhbmNlT2ZzcQB+AAzDjYkUdAAHcHJlcGFyZXNxAH4ADLEXc6h0AAxzeW5jaHJvbml6ZWRzcQB+AAwrwbtddAANJGlzSW5zdGFuY2VPZnNxAH4ADK8DL5t0AAtwcmVwYXJlQmFzZXNxAH4ADPcj6Lp0AAlub3RpZnlBbGxzcQB+AAwr1jgGdAAMaXNJbnN0YW5jZU9mc3EAfgAMIkrjTnQABjxpbml0PnNxAH4ADHDzR4p0AAI9PXNxAH4ADLDGPKl0AAxQcmVwYXJlZERhdGFzcQB+AAzC8N7SdAAFY2xvbmVzcQB+AAzJ18godAAKUHJlcGFyYXRvcnNxAH4ADFkGOjZ0AAh0b1N0cmluZ3NxAH4ADH3NUMV0AAIhPXNxAH4ADDTBSHZ0AAhnZXRDbGFzc3NxAH4ADGGXIH10AAJuZXNxAH4ADOEvbLN0AAJlcXNxAH4ADA24ISZ0AAIjI3NxAH4ADC66mpd0AAhmaW5hbGl6ZXNxAH4ADJ3j6kF0AAhoYXNoQ29kZXNxAH4ADLKy3n90AA5sYWJlbGVkUGhyYXNlc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AB1TZW1hbnRpY0FuYWx5c2lzLlByZXBhcmVkRGF0YXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYQBwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AanNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGdAAEamF2YXNxAH4AhnQAAmlvcQB+AItzcQB+AHp0AAZPYmplY3RzcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AJFzcQB+AIZ0AARsYW5ncQB+AItzcQB+AHp0AANBbnlxAH4AgHNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ABtTZW1hbnRpY0FuYWx5c2lzLlByZXBhcmF0b3J1cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQBwc3EAfgBmc3EAfgBuc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AHgAAAAHc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgB6dAALUFByZXBhcmF0b3JzcQB+AH5zcQB+AIF1cQB+AIQAAAAEc3EAfgCGdAACaW9zcQB+AIZ0AApwcmVkaWN0aW9uc3EAfgCGdAAKY29udHJvbGxlcnEAfgCLdXEAfgB4AAAAAnNxAH4AenQADFRyYWluaW5nRGF0YXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0ABBTZW1hbnRpY0FuYWx5c2lzcQB+AItzcQB+AHp0AAxQcmVwYXJlZERhdGFxAH4Aw3NxAH4AsnNxAH4AenQADkJhc2VQcmVwYXJhdG9yc3EAfgB+c3EAfgCBdXEAfgCEAAAABHNxAH4AhnQAAmlvc3EAfgCGdAAKcHJlZGljdGlvbnNxAH4AhnQABGNvcmVxAH4Ai3VxAH4AeAAAAAJxAH4AwXEAfgDIc3EAfgB6dAAMQWJzdHJhY3REb2VycQB+AM1zcQB+AHpxAH4AfXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AiXEAfgCLc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AJFzcQB+AIZ0AAJpb3EAfgCLc3EAfgB6cQB+AJVzcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AJFzcQB+AIZxAH4Am3EAfgCLc3EAfgB6cQB+AJ1xAH4A2nVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEFNlbWFudGljQW5hbHlzaXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUybZEQ7dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTe50SESdfXfWU8ZM8BW/Ly1erwsA==
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDreyQVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLV4TOd0AAZub3RpZnlzcQB+AAyBL8+3dAAEd2FpdHNxAH4ADG7Cak10AA0kYXNJbnN0YW5jZU9mc3EAfgAMERpMlXQABmVxdWFsc3NxAH4ADFLBMVJ0AAVzZXJ2ZXNxAH4ADD5Qiyx0AAxhc0luc3RhbmNlT2ZzcQB+AAxfdvBidAAMc3luY2hyb25pemVkc3EAfgAM+hU+bnQADSRpc0luc3RhbmNlT2ZzcQB+AAxWzAw5dAAJbm90aWZ5QWxsc3EAfgAMCYywOXQADGlzSW5zdGFuY2VPZnNxAH4ADEgXfKp0AAY8aW5pdD5zcQB+AAxBvIa2dAACPT1zcQB+AAwdYUeadAAFY2xvbmVzcQB+AAydnv80dAAIdG9TdHJpbmdzcQB+AAwLL+iYdAACIT1zcQB+AAztkZtrdAAJc2VydmVCYXNlc3EAfgAM9ZlL2HQACGdldENsYXNzc3EAfgAMO8XJAnQAAm5lc3EAfgAMBTtK53QAB1NlcnZpbmdzcQB+AAz1JlAIdAACZXFzcQB+AAzVWFFbdAACIyNzcQB+AAxFwBYzdAAIZmluYWxpemVzcQB+AAxHMsP4dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAYU2VtYW50aWNBbmFseXNpcy5TZXJ2aW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBeeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdAHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBmc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAB3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGV0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4cQB+AHd4cQB+AGV0AAhMU2VydmluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACaW9zcQB+AIV0AApwcmVkaWN0aW9uc3EAfgCFdAAKY29udHJvbGxlcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCGdXEAfgB0AAAAAnNxAH4AenQABVF1ZXJ5c3EAfgB9c3EAfgCAdXEAfgCDAAAAAnNxAH4AhXQAEFNlbWFudGljQW5hbHlzaXNxAH4AjnNxAH4AenQAD1ByZWRpY3RlZFJlc3VsdHEAfgCSc3EAfgB2c3EAfgB6dAALQmFzZVNlcnZpbmdzcQB+AH1zcQB+AIB1cQB+AIMAAAAEc3EAfgCFdAACaW9zcQB+AIV0AApwcmVkaWN0aW9uc3EAfgCFdAAEY29yZXEAfgCOdXEAfgB0AAAAAnEAfgCQcQB+AJdzcQB+AHp0AAxBYnN0cmFjdERvZXJxAH4AnHNxAH4AenQADFNlcmlhbGl6YWJsZXNxAH4AfXNxAH4AgHVxAH4AgwAAAAJzcQB+AIV0AAVzY2FsYXEAfgCOc3EAfgB6cQB+AKlzcQB+AH1zcQB+AIB1cQB+AIMAAAADc3EAfgCFdAAEamF2YXNxAH4AhXQAAmlvcQB+AI5zcQB+AHp0AAZPYmplY3RzcQB+AH1zcQB+AIB1cQB+AIMAAAADc3EAfgCFcQB+ALRzcQB+AIV0AARsYW5ncQB+AI5zcQB+AHp0AANBbnlxAH4AqnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEFNlbWFudGljQW5hbHlzaXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUybZEQ7dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRoP62ZoucC7AIQWf1Z55zfQLVP+A==
 external apis:
 0 items
 source infos:
-2 items
-/Users/Marco/test-engine2/src/main/scala/DataSource.scala -> 
+6 items
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/java/SemanticAnalysis/NGramMachine.java -> 
 AAAAAAAAAAA=
-/Users/Marco/test-engine2/src/main/scala/NGramModel.scala -> 
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Algorithm.scala -> 
+AAAAAAAAAAA=
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/DataSource.scala -> 
+AAAAAAAAAAA=
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Engine.scala -> 
+AAAAAAAAAAA=
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Preparator.scala -> 
+AAAAAAAAAAA=
+/Users/Marco/SemanticAnalysisRepo/SemanticAnalysis/src/main/scala/SemanticAnalysis/Serving.scala -> 
 AAAAAAAAAAA=
 compilations:
-1 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHRy9251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9Vc2Vycy9NYXJjby90ZXN0LWVuZ2luZTIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTJtkRDt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTJt7tY91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTJun5Sl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTJvEupd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTJ9AQLx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9NYXJjby9TZW1hbnRpY0FuYWx5c2lzUmVwby9TZW1hbnRpY0FuYWx5c2lzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

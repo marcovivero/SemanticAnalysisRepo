@@ -5,11 +5,12 @@ Import sample data for engine
 import predictionio
 import argparse
 
-print "Importing data..."
-data = open(file, 'r')
-
 def import_events(client, file):
+    data  = open(file, 'r')
+    count = 1
     for elem in data:
+        print count
+        count += 1
         elem = elem.rstrip('\n').split("\t")
         client.create_event(
             event = "phrases",
@@ -20,15 +21,14 @@ def import_events(client, file):
                 "phrase" : elem[2]
             }
         )
-
-print "%s events are imported." % count
+    data.close()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description="Import sample data for semantic analysis engine")
     parser.add_argument('--access_key', default='invald_access_key')
     parser.add_argument('--url', default="http://localhost:7070")
-    parser.add_argument('--file', default="./data/train.tsv")
+    parser.add_argument('--file', default="./data/train2.tsv")
 
     args = parser.parse_args()
     print args

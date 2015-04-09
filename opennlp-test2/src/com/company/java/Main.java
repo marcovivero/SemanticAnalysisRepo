@@ -11,7 +11,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        HashMap<String, Integer> x = NGramMachine.extract("Hello , Hello", 2);
+        HashMap<String, Integer> x = NGramMachine.extract("", 2);
         HashMap<String, Integer> y = NGramMachine.extract("Hello , Goodbye", 2);
         List<HashMap<String, Integer>> copy = new ArrayList();
         copy.add(x);
@@ -31,14 +31,18 @@ public class Main {
 
 class NGramMachine {
     public static HashMap<String, Integer> extract(String phrase, Integer n) {
-        String tokens[] = SimpleTokenizer.INSTANCE.tokenize(phrase);
-        NGramModel model = new NGramModel();
-        model.add(new StringList(tokens), 1, n);
-        Iterator<StringList> iter = model.iterator();
         HashMap<String, Integer> hashMap = new HashMap<String, Integer>();
-        while (iter.hasNext()) {
-            StringList x = iter.next();
-            hashMap.put(x.toString(), model.getCount(x));
+        if (phrase != "") {
+            String tokens[] = SimpleTokenizer.INSTANCE.tokenize(phrase);
+            NGramModel model = new NGramModel();
+            model.add(new StringList(tokens), 1, n);
+            Iterator<StringList> iter = model.iterator();
+            while (iter.hasNext()) {
+                StringList x = iter.next();
+                hashMap.put(x.toString(), model.getCount(x));
+            }
+        } else {
+            hashMap.put("[]", 1);
         }
         return hashMap;
     }

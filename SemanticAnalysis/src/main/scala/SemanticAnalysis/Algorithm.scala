@@ -23,16 +23,17 @@ class Algorithm(val params : AlgorithmParams)
 
   def train (sc : SparkContext, data : PreparedData) : Model = {
 
+    val labPhrases = data.labeledPhrases.filter(e => extract(e.phrase, params.nGramWindow) != null)
+
     val NGramUniverse = create_universe(
-      data.labeledPhrases
-        .map(e => DummyData(
+      labPhrases.map(e => DummyData(
         extract(e.phrase, params.nGramWindow)
       ).nGrams
         ).toLocalIterator.asJava
     )
     // Create training data universe of n-grams.
 
-    val transformedData = data.labeledPhrases.map(e => LabeledPoint(
+    val transformedData = labPhrases.map(e => LabeledPoint(
           e.sentiment,
           Vectors.dense(
             hash2Vect(
@@ -49,14 +50,14 @@ class Algorithm(val params : AlgorithmParams)
   }
 
   def predict (model : Model, query: Query) : PredictedResult = {
-    val label = model.nb.predict(
+    val sentiment = model.nb.predict(
       Vectors.dense(
         hash2Vect(
           extract(query.phrase, params.nGramWindow),
           model.universe
         ).map(e => Double2double(e))
       ))
-    new PredictedResult(label)
+    new PredictedResult(sentiment)
   }
 }
 

@@ -13,19 +13,24 @@ class NGramMachine {
     // Extract set of n-grams with corresponding number of counts from phrase
     // of class String.
     public static HashMap<String, Integer> extract(String phrase, Integer n) {
-        String tokens[] = SimpleTokenizer.INSTANCE.tokenize(phrase);
-        NGramModel model = new NGramModel();
-        model.add(new StringList(tokens), 1, n);
-        Iterator<StringList> iter = model.iterator();
-        HashMap<String, Integer> hashMap = new HashMap<String, Integer>();
-        while (iter.hasNext()) {
-            StringList x = iter.next();
-            hashMap.put(x.toString(), model.getCount(x));
+        try {
+            HashMap<String, Integer> hashMap = new HashMap<String, Integer>();
+            String tokens[] = SimpleTokenizer.INSTANCE.tokenize(phrase);
+            NGramModel model = new NGramModel();
+            model.add(new StringList(tokens), 1, n);
+            Iterator<StringList> iter = model.iterator();
+            while (iter.hasNext()) {
+                StringList x = iter.next();
+                hashMap.put(x.toString(), model.getCount(x));
+            }
+            return hashMap;
+        } catch (IllegalArgumentException e) {
+            return null;
         }
-        return hashMap;
     }
 
-    // Create
+    // Create universe of n-grams, implement as linked hash set in order to preserve uniqueness
+    // of elements and preserve iteration order.
     public static LinkedHashSet<String> create_universe(Iterator<HashMap<String, Integer>> iter) {
         LinkedHashSet<String> universe = new LinkedHashSet<String>();
         while (iter.hasNext()) {
@@ -37,6 +42,8 @@ class NGramMachine {
         return universe;
     }
 
+    // This converts a hash map returned by extract and converts the hash map entries to
+    // counts corresponding to
     public static Double[] hash2Vect (
             HashMap<String, Integer> ngrams,
             LinkedHashSet<String> universe

@@ -7,7 +7,7 @@ class Query(
              ) extends Serializable
 
 class PredictedResult(
-                       val label: Double
+                       val sentiment: Double
                        ) extends Serializable
 
 object SemanticAnalysisEngine extends IEngineFactory {
