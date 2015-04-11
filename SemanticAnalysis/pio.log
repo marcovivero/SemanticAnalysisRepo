@@ -1974,3 +1974,53 @@ org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = 
 2015-04-09 10:54:20,768 INFO  io.prediction.controller.Engine$ [main] - Data santiy check is on.
 2015-04-09 10:54:32,252 INFO  io.prediction.controller.Engine$ [main] - SemanticAnalysis.TrainingData does not support data sanity check. Skipping check.
 2015-04-09 10:54:32,253 INFO  io.prediction.controller.Engine$ [main] - SemanticAnalysis.PreparedData does not support data sanity check. Skipping check.
+2015-04-09 13:29:09,275 INFO  io.prediction.tools.console.Console$ [main] - Creating Event Server at 0.0.0.0:7070
+2015-04-09 13:29:11,056 WARN  org.apache.hadoop.util.NativeCodeLoader [main] - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-04-09 13:29:11,685 ERROR io.prediction.data.storage.hbase.StorageClient [main] - HBase master is not running (ZooKeeper ensemble: localhost). Please make sure that HBase is running properly, and that the configuration is pointing at the correct ZooKeeper ensemble.
+2015-04-09 13:29:11,686 ERROR io.prediction.data.storage.Storage$ [main] - Error initializing storage client for source HBASE
+2015-04-09 13:29:11,686 ERROR io.prediction.data.storage.Storage$ [main] - com.google.protobuf.ServiceException: org.apache.hadoop.hbase.ipc.RemoteWithExtrasException(org.apache.hadoop.hbase.ipc.ServerNotRunningYetException): org.apache.hadoop.hbase.ipc.ServerNotRunningYetException: Server marcos-mbp.att.net/192.168.1.157:60239 is not running yet
+	at org.apache.hadoop.hbase.ipc.CallRunner.run(CallRunner.java:98)
+	at org.apache.hadoop.hbase.ipc.FifoRpcScheduler$1.run(FifoRpcScheduler.java:74)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:439)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+	at java.lang.Thread.run(Thread.java:695)
+
+2015-04-09 13:29:22,840 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-04-09 13:29:22,946 INFO  io.prediction.tools.console.App$ [main] - SemAnalysisApp-Marco |    1 | Hw8uK9u8j3C3Tuvu9Ce1YNIjhggQnXXUyPzxdqyqKPgaiT2Dz444hrNrcz4Bg8qM | (all)
+2015-04-09 13:29:22,947 INFO  io.prediction.tools.console.App$ [main] - Finished listing 1 app(s).
+2015-04-09 13:30:22,444 INFO  io.prediction.tools.console.App$ [main] - The data of the following app will be deleted. Are you sure?
+2015-04-09 13:30:22,446 INFO  io.prediction.tools.console.App$ [main] -     App Name: SemAnalysisApp-Marco
+2015-04-09 13:30:22,447 INFO  io.prediction.tools.console.App$ [main] -       App ID: 1
+2015-04-09 13:30:22,448 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-04-09 13:30:28,197 WARN  org.apache.hadoop.util.NativeCodeLoader [main] - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-04-09 13:30:29,137 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table predictionio_eventdata:events_1...
+2015-04-09 13:30:34,549 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 1
+2015-04-09 13:30:44,867 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table predictionio_eventdata:events_1 doesn't exist yet. Creating now...
+2015-04-09 13:30:50,279 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 1.
+2015-04-09 13:30:50,383 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-04-09 13:34:19,198 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-04-09 13:34:19,249 INFO  io.prediction.tools.console.App$ [main] - SemAnalysisApp-Marco |    1 | Hw8uK9u8j3C3Tuvu9Ce1YNIjhggQnXXUyPzxdqyqKPgaiT2Dz444hrNrcz4Bg8qM | (all)
+2015-04-09 13:34:19,249 INFO  io.prediction.tools.console.App$ [main] - Finished listing 1 app(s).
+2015-04-09 13:35:33,398 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-04-09 13:35:33,468 INFO  io.prediction.tools.console.App$ [main] - SemAnalysisApp-Marco |    1 | Hw8uK9u8j3C3Tuvu9Ce1YNIjhggQnXXUyPzxdqyqKPgaiT2Dz444hrNrcz4Bg8qM | (all)
+2015-04-09 13:35:33,469 INFO  io.prediction.tools.console.App$ [main] - Finished listing 1 app(s).
+2015-04-09 13:36:51,604 INFO  io.prediction.tools.console.Console$ [main] - Creating Event Server at 0.0.0.0:7070
+2015-04-09 13:36:54,811 WARN  org.apache.hadoop.util.NativeCodeLoader [main] - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-04-09 13:37:02,224 INFO  spray.can.server.HttpListener [EventServerSystem-akka.actor.default-dispatcher-3] - Bound to /0.0.0.0:7070
+2015-04-09 13:37:02,224 INFO  io.prediction.data.api.EventServerActor [EventServerSystem-akka.actor.default-dispatcher-3] - Bound received. EventServer is ready.
+2015-04-09 13:37:31,413 WARN  org.apache.hadoop.util.NativeCodeLoader [main] - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-04-09 13:37:37,409 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table predictionio_eventdata:events_5 doesn't exist yet. Creating now...
+2015-04-09 13:37:42,829 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 5.
+2015-04-09 13:37:42,854 INFO  io.prediction.tools.console.App$ [main] - Created new app:
+2015-04-09 13:37:42,854 INFO  io.prediction.tools.console.App$ [main] -       Name: TestApp
+2015-04-09 13:37:42,855 INFO  io.prediction.tools.console.App$ [main] -         ID: 5
+2015-04-09 13:37:42,855 INFO  io.prediction.tools.console.App$ [main] - Access Key: INwTQ1YyKq68BeW2h39wgsJ576SsfVgVvxU0FVs8ta9XUSSDn2EbKGSd8qqNF9o7
+2015-04-09 16:58:38,751 WARN  org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation [main-EventThread] - This client just lost it's session with ZooKeeper, closing it. It will be recreated next time someone needs it
+org.apache.zookeeper.KeeperException$SessionExpiredException: KeeperErrorCode = Session expired
+	at org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher.connectionEvent(ZooKeeperWatcher.java:401)
+	at org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher.process(ZooKeeperWatcher.java:319)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:522)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:498)

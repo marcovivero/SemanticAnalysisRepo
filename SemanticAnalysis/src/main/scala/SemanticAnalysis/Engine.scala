@@ -10,6 +10,10 @@ class PredictedResult(
                        val sentiment: Double
                        ) extends Serializable
 
+class ActualResult(
+                  val sentiment: Double
+                    ) extends Serializable
+
 object SemanticAnalysisEngine extends IEngineFactory {
   override
   def apply() = {
