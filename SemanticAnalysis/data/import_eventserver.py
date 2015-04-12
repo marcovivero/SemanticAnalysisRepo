@@ -7,9 +7,9 @@ import argparse
 
 def import_events(client, file):
     data  = open(file, 'r')
-    count = 1
+    count = 0
+    print('Importing data...')
     for elem in data:
-        print count
         count += 1
         elem = elem.rstrip('\n').split("\t")
         client.create_event(
@@ -21,6 +21,7 @@ def import_events(client, file):
                 "phrase" : elem[2]
             }
         )
+    print('Imported {0} events.'.format(str(count)))
     data.close()
 
 if __name__ == '__main__':
@@ -31,7 +32,7 @@ if __name__ == '__main__':
     parser.add_argument('--file', default="./data/train2.tsv")
 
     args = parser.parse_args()
-    print args
+    print(args)
 
     client = predictionio.EventClient(
         access_key=args.access_key,

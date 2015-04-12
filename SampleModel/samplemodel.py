@@ -76,20 +76,17 @@ def cross_validate(model_type, data, response, folds, metrics,
 ### Follows the algorithm given with accompanying PDF.
 
 def tuneNaiveBayes(data, response, alpha_0, size = 100, 
-                   burnin = 500, n_folds = 7, 
-                   prior = lambda : np.random.gamma(1)):
+                   burnin = 0, n_folds = 7, 
+                   prior = lambda : np.random.uniform(0, 1000)):
     alpha_old = alpha_0
-    MSE_old = cross_validate('nb', data, response,
-                             cross_validation.StratifiedKFold(response, n_folds, 
-                                                              shuffle = True),
+    folds = cross_validation.StratifiedKFold(response, n_folds, shuffle = True)
+    MSE_old = cross_validate('nb', data, response, folds,
                              [metrics.mean_squared_error], alpha = alpha_old)
     n_accept, n_total, samps = 0, 0, []
     
     while n_accept < burnin + size:
         alpha_new = prior()
-        MSE_new = cross_validate('nb', data, response,
-                             cross_validation.StratifiedKFold(response, n_folds, 
-                                                              shuffle = True),
+        MSE_new = cross_validate('nb', data, response, folds,
                                  [metrics.mean_squared_error], alpha = alpha_new)
         if min(1, (1 / MSE_new) / (1 / MSE_old)) > np.random.uniform():
             n_accept += 1

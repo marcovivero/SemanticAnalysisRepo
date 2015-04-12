@@ -1,0 +1,76 @@
+2015-04-12 02:44:32,239 INFO  io.prediction.tools.console.Console$ [main] - Creating Event Server at 0.0.0.0:7070
+2015-04-12 02:44:34,216 WARN  org.apache.hadoop.util.NativeCodeLoader [main] - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-04-12 02:44:39,170 INFO  io.prediction.tools.console.App$ [main] -                 Name |   ID |                                                       Access Key | Allowed Event(s)
+2015-04-12 02:44:39,352 INFO  io.prediction.tools.console.App$ [main] - SemAnalysisApp-Marco |    1 | Hw8uK9u8j3C3Tuvu9Ce1YNIjhggQnXXUyPzxdqyqKPgaiT2Dz444hrNrcz4Bg8qM | (all)
+2015-04-12 02:44:39,364 INFO  io.prediction.tools.console.App$ [main] -              TestApp |    5 | INwTQ1YyKq68BeW2h39wgsJ576SsfVgVvxU0FVs8ta9XUSSDn2EbKGSd8qqNF9o7 | (all)
+2015-04-12 02:44:39,365 INFO  io.prediction.tools.console.App$ [main] - Finished listing 2 app(s).
+2015-04-12 02:44:48,881 INFO  spray.can.server.HttpListener [EventServerSystem-akka.actor.default-dispatcher-4] - Bound to /0.0.0.0:7070
+2015-04-12 02:44:48,884 INFO  io.prediction.data.api.EventServerActor [EventServerSystem-akka.actor.default-dispatcher-4] - Bound received. EventServer is ready.
+2015-04-12 02:44:59,367 INFO  io.prediction.tools.console.App$ [main] - The data of the following app will be deleted. Are you sure?
+2015-04-12 02:44:59,372 INFO  io.prediction.tools.console.App$ [main] -     App Name: TestApp
+2015-04-12 02:44:59,374 INFO  io.prediction.tools.console.App$ [main] -       App ID: 5
+2015-04-12 02:44:59,376 INFO  io.prediction.tools.console.App$ [main] -  Description: None
+2015-04-12 02:45:01,300 WARN  org.apache.hadoop.util.NativeCodeLoader [main] - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-04-12 02:45:17,732 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - Removing table predictionio_eventdata:events_5...
+2015-04-12 02:45:23,179 INFO  io.prediction.tools.console.App$ [main] - Removed Event Store for this app ID: 5
+2015-04-12 02:45:23,346 INFO  io.prediction.data.storage.hbase.HBLEvents [main] - The table predictionio_eventdata:events_5 doesn't exist yet. Creating now...
+2015-04-12 02:45:29,031 INFO  io.prediction.tools.console.App$ [main] - Initialized Event Store for this app ID: 5.
+2015-04-12 02:45:29,134 INFO  io.prediction.tools.console.App$ [main] - Done.
+2015-04-12 03:28:39,575 WARN  org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation [main-EventThread] - This client just lost it's session with ZooKeeper, closing it. It will be recreated next time someone needs it
+org.apache.zookeeper.KeeperException$SessionExpiredException: KeeperErrorCode = Session expired
+	at org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher.connectionEvent(ZooKeeperWatcher.java:401)
+	at org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher.process(ZooKeeperWatcher.java:319)
+	at org.apache.zookeeper.ClientCnxn$EventThread.processEvent(ClientCnxn.java:522)
+	at org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:498)
+2015-04-12 05:15:34,466 ERROR org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper [hconnection-0x60c16548-shared--pool1-t2] - ZooKeeper getData failed after 4 attempts
+2015-04-12 05:15:34,466 ERROR org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper [hconnection-0x60c16548-shared--pool1-t3] - ZooKeeper getData failed after 4 attempts
+2015-04-12 05:15:34,467 ERROR org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher [hconnection-0x60c16548-shared--pool1-t2] - hconnection-0x60c16548, quorum=localhost:2181, baseZNode=/hbase Received unexpected KeeperException, re-throwing exception
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase/meta-region-server
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.getData(ZooKeeper.java:1155)
+	at org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper.getData(RecoverableZooKeeper.java:337)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.getData(ZKUtil.java:683)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.blockUntilAvailable(ZKUtil.java:1835)
+	at org.apache.hadoop.hbase.zookeeper.MetaRegionTracker.blockUntilAvailable(MetaRegionTracker.java:183)
+	at org.apache.hadoop.hbase.client.ZooKeeperRegistry.getMetaRegionLocation(ZooKeeperRegistry.java:58)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegion(HConnectionManager.java:1102)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegionInMeta(HConnectionManager.java:1196)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegion(HConnectionManager.java:1105)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegion(HConnectionManager.java:1062)
+	at org.apache.hadoop.hbase.client.AsyncProcess.findDestLocation(AsyncProcess.java:365)
+	at org.apache.hadoop.hbase.client.AsyncProcess.submit(AsyncProcess.java:507)
+	at org.apache.hadoop.hbase.client.AsyncProcess.logAndResubmit(AsyncProcess.java:717)
+	at org.apache.hadoop.hbase.client.AsyncProcess.receiveGlobalFailure(AsyncProcess.java:664)
+	at org.apache.hadoop.hbase.client.AsyncProcess.access$100(AsyncProcess.java:93)
+	at org.apache.hadoop.hbase.client.AsyncProcess$1.run(AsyncProcess.java:547)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2015-04-12 05:15:34,467 ERROR org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher [hconnection-0x60c16548-shared--pool1-t3] - hconnection-0x60c16548, quorum=localhost:2181, baseZNode=/hbase Received unexpected KeeperException, re-throwing exception
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss for /hbase/meta-region-server
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:51)
+	at org.apache.zookeeper.ZooKeeper.getData(ZooKeeper.java:1155)
+	at org.apache.hadoop.hbase.zookeeper.RecoverableZooKeeper.getData(RecoverableZooKeeper.java:337)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.getData(ZKUtil.java:683)
+	at org.apache.hadoop.hbase.zookeeper.ZKUtil.blockUntilAvailable(ZKUtil.java:1835)
+	at org.apache.hadoop.hbase.zookeeper.MetaRegionTracker.blockUntilAvailable(MetaRegionTracker.java:183)
+	at org.apache.hadoop.hbase.client.ZooKeeperRegistry.getMetaRegionLocation(ZooKeeperRegistry.java:58)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegion(HConnectionManager.java:1102)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegionInMeta(HConnectionManager.java:1196)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegion(HConnectionManager.java:1105)
+	at org.apache.hadoop.hbase.client.HConnectionManager$HConnectionImplementation.locateRegion(HConnectionManager.java:1062)
+	at org.apache.hadoop.hbase.client.AsyncProcess.findDestLocation(AsyncProcess.java:365)
+	at org.apache.hadoop.hbase.client.AsyncProcess.submit(AsyncProcess.java:507)
+	at org.apache.hadoop.hbase.client.AsyncProcess.logAndResubmit(AsyncProcess.java:717)
+	at org.apache.hadoop.hbase.client.AsyncProcess.receiveGlobalFailure(AsyncProcess.java:664)
+	at org.apache.hadoop.hbase.client.AsyncProcess.access$100(AsyncProcess.java:93)
+	at org.apache.hadoop.hbase.client.AsyncProcess$1.run(AsyncProcess.java:547)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)

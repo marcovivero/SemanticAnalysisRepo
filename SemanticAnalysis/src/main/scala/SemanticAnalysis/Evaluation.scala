@@ -3,14 +3,15 @@ package SemanticAnalysis
 import io.prediction.controller._
 import scala.math.pow
 
-case class MeanSquaredError() extends AverageMetric[EmptyEvaluationInfo, Query, PredictedResult, ActualResult] {
-  def calculate(query: Query, predicted: PredictedResult, actual: ActualResult)
-  : Double = pow(predicted.sentiment - actual.sentiment, 2)
+case class MeanSquaredError
+  extends AverageMetric[EmptyEvaluationInfo, Query, PredictedResult, ActualResult] {
+    def calculate(query: Query, predicted: PredictedResult, actual: ActualResult)
+    : Double = pow(predicted.sentiment - actual.sentiment, 2)
 }
 
 object meanSquaredErrorEvaluation extends Evaluation {
   // Define Engine and Metric used in Evaluation
-  engineMetric = (SemanticAnalysisEngine(), new MeanSquaredError())
+  engineMetric = (SemanticAnalysisEngine(), MeanSquaredError())
 }
 
 object EngineParamsList extends EngineParamsGenerator {

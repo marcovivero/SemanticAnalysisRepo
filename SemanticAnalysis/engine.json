@@ -4,14 +4,14 @@
   "engineFactory": "SemanticAnalysis.SemanticAnalysisEngine",
   "datasource": {
     "params": {
-      "appId": 1
+      "appId": 5
     }
   },
   "algorithms": [
     {
       "name": "algo",
       "params": {
-	"nGramWindow" : 4,
+	"nGramWindow" : 2,
 	"lambda": 1.0
       }
     }

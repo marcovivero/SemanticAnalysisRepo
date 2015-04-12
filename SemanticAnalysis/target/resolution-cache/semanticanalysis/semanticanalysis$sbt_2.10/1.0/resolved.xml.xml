@@ -4,7 +4,7 @@
 		module="semanticanalysis$sbt_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150411140513"
+		publication="20150412151544"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
